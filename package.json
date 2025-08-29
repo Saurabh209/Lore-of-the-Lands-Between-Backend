@@ -1,0 +1,19 @@
+{
+  "name": "lore-of-the-lands-between-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabh209/Lore-of-the-Lands-Between-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabh209/Lore-of-the-Lands-Between-Backend/issues"
+  },
+  "homepage": "https://github.com/Saurabh209/Lore-of-the-Lands-Between-Backend#readme"
+}
