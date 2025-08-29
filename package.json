@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Saurabh209/Lore-of-the-Lands-Between-Backend/issues"
   },
-  "homepage": "https://github.com/Saurabh209/Lore-of-the-Lands-Between-Backend#readme"
+  "homepage": "https://github.com/Saurabh209/Lore-of-the-Lands-Between-Backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.0"
+  }
 }
