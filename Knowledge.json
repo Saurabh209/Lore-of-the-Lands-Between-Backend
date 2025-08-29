@@ -745,7 +745,7 @@
                 "name": "Malenia, Blade of Miquella",
                 "title": "The Severed",
                 "description": "Undefeated swordswoman cursed with the Scarlet Rot, twin sister to Miquella.",
-                "image": "Malenia",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478316/Malenia1_bilzhm.jpg",
                 "lore": "Born cursed with the Scarlet Rot, Malenia has never known defeat. Her battle with Radahn in Caelid resulted in the bloom of the Scarlet Rot that devastated the land. She awaits her twin brother Miquella's return in the Haligtree, serving as his blade and protector.",
                 "abilities": [
                     "Waterfowl Dance",
@@ -785,7 +785,7 @@
                 "name": "Starscourge Radahn",
                 "title": "The Conqueror of the Stars",
                 "description": "Mightiest demigod general, master of gravity magic and beloved by his soldiers.",
-                "image": "Radhan",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478312/Radhan_b0aq3a.jpg",
                 "lore": "Once the mightiest warrior among the demigods, Radahn mastered gravity magic to continue riding his beloved horse Leonard. After the Shattering, he was consumed by Scarlet Rot in his battle with Malenia, losing his sanity but not his strength. He holds back the stars with his gravity magic.",
                 "abilities": [
                     "Gravity Magic",
@@ -821,7 +821,7 @@
                 "name": "Rykard, Lord of Blasphemy",
                 "title": "The Serpent",
                 "description": "Once lord of Volcano Manor, now merged with the God-Devouring Serpent.",
-                "image": "Rykard",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478189/Rykard_agkusq.jpg",
                 "lore": "Seeking power to challenge the Golden Order, Rykard fed himself to the God-Devouring Serpent. Now a blasphemous fusion of man and serpent, he devours champions in his lava-filled domain at Mt. Gelmir, leading the Recusants against the Golden Order.",
                 "abilities": [
                     "Serpent's Bite",
@@ -856,7 +856,7 @@
                 "name": "Godrick the Grafted",
                 "title": "Lord of Limgrave",
                 "description": "The weakest of the demigods, who grafts limbs of champions to gain strength.",
-                "image": "Godrick",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478201/Godrick_ks9ocg.jpg",
                 "lore": "The lowliest of Queen Marika's offspring, Godrick's cowardice led him to graft the limbs of defeated warriors onto his body. He rules from Stormveil Castle, clinging to power through his grotesque modifications and claiming lineage to Godfrey.",
                 "abilities": [
                     "Dragon Head",
@@ -884,7 +884,7 @@
                 "name": "Morgott, the Omen King",
                 "title": "The Grace-Given",
                 "description": "An Omen who became Lord of Leyndell, defender of the Erdtree.",
-                "image": "Morgott",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478192/Morgot_flink3.png",
                 "lore": "Born cursed as an Omen, Morgott was imprisoned beneath Leyndell. Despite his curse, he remained loyal to the Golden Order and became its final protector, wielding holy magic against all who would claim the throne. He is the true identity of Margit the Fell Omen.",
                 "abilities": [
                     "Holy Blade",
@@ -916,7 +916,7 @@
                 "name": "Mohg, Lord of Blood",
                 "title": "The Blood Lord",
                 "description": "Omen twin to Morgott, founder of the Mohgwyn Dynasty.",
-                "image": "Mohg",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478191/Mogh_hrdibn.jpg",
                 "lore": "Unlike his twin Morgott, Mohg embraced his Omen curse and founded the Mohgwyn Dynasty. He kidnapped Miquella to become his consort and built his palace from the blood of his followers, serving the Formless Mother and seeking to usher in a new age of blood.",
                 "abilities": [
                     "Bloodflame",
@@ -949,7 +949,7 @@
                 "name": "Ranni the Witch",
                 "title": "Lunar Princess Ranni",
                 "description": "Demigod sorceress who orchestrated the Night of Black Knives to escape fate.",
-                "image": "RaniPhoto",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478306/RaniPhoto_pjwszq.jpg",
                 "lore": "Daughter of Radagon and Rennala who orchestrated the Night of Black Knives to escape the Greater Will's influence. She discarded her physical form and seeks to usher in an Age of Stars, replacing the Golden Order with a thousand-year journey into the cold dark of space.",
                 "abilities": [
                     "Dark Moon Magic",
@@ -988,7 +988,7 @@
                 "name": "Miquella the Unalloyed",
                 "title": "Miquella the Kind",
                 "description": "Twin brother of Malenia, cursed with eternal youth, creator of Unalloyed Gold.",
-                "image": "Miqulla",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478193/Miqulla_fu22ye.png",
                 "lore": "Twin brother of Malenia, cursed with eternal youth. Created Unalloyed Gold to cure his sister's rot and built the Haligtree as sanctuary for the unwanted. He was kidnapped by Mohg while in his cocoon, attempting to cure his curse and ascend to godhood.",
                 "abilities": [
                     "Unalloyed Gold Creation",
@@ -1028,7 +1028,7 @@
                 "name": "Godwyn the Golden",
                 "title": "Prince of Death",
                 "description": "First of the demigods to die, his soul was slain while his body lived on.",
-                "image": "Godwyn",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478190/Godwyn_hbtbfw.jpg",
                 "lore": "Eldest son of Queen Marika and Godfrey, first demigod to die during the Night of Black Knives. His soul was killed while his body lived on, becoming the source of Those Who Live in Death. His corruption spreads throughout the Lands Between as the Prince of Death.",
                 "abilities": [
                     "Death Blight",
