@@ -4,15 +4,15 @@ import fs from 'fs';
 // import Knowledge from  './Demo.json' assert { type: 'json' };
 const Knowledge = JSON.parse(fs.readFileSync('./Knowledge.json', 'utf8'));
 
-const app  = express();
+const app = express();
 
-app.get('/lore/knowledge',((req,res)=>{
+app.get('/api/knowledge', ((req, res) => {
     res.json(Knowledge);
 
 }));
 
 const port = process.env.PORT || 3000;
 
-app.listen(port,()=>{
+app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });
