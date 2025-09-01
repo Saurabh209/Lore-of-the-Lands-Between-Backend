@@ -6300,9 +6300,1082 @@
                     }
                 }
             ],
-            "thrustingSwords": [],
-            "heavythrustingSwords": [],
-            "curveSwords": [],
+            "thrustingSwords": [
+                {
+                    "name": "Carian Sorcery Sword",
+                    "attack": {
+                        "Physical": "69",
+                        "Magic": "69",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "110"
+                    },
+                    "guard": {
+                        "Physical": "34",
+                        "Magic": "48",
+                        "Fire": "24",
+                        "Lightning": "24",
+                        "Holy": "24",
+                        "Boost": "19"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "19",
+                        "Intelligence": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Carian Sorcery Sword is a Thrusting Sword in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Carian Sorcery Sword scales primarily with Strength, Dexterity and Intelligence and is a good Weapon for players looking for a weapon that can also serve as a catalyst for spells.",
+                        "location": [
+                            "In a chest that can be found after dropping down into Castle Ensis from the cliff just west of the waterfall to the west of the Highroad Cross Site of Grace in Scadu Altus."
+                        ],
+                        "fp": "9",
+                        "weight": "2.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Rapier",
+                    "attack": {
+                        "Physical": "96",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "130"
+                    },
+                    "guard": {
+                        "Physical": "45",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "20"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "7",
+                        "Dexterity": "12"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Rapier is a Thrusting Sword in Elden Ring. The Rapier scales primarily with Strength and Dexterity, and is a good Weapon for mobility during combat. This sword is lightweight, but sharp.",
+                        "location": [
+                            "Can be purchased from Twin Maiden Husks at the Roundtable Hold"
+                        ],
+                        "fp": "14",
+                        "weight": "2.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Estoc",
+                    "attack": {
+                        "Physical": "107",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "54",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "24"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Estoc is a Thrusting Sword in Elden Ring. The Estoc scales primarily with Strength and Dexterity is a good Weapon for dealing melee piercing damage and slashing attacks.",
+                        "location": [
+                            "Starting Equipment for the Prisoner Class.",
+                            "Can be purchased from the Nomadic Merchant in Liurnia of the Lakes"
+                        ],
+                        "fp": "14",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Noble's Estoc",
+                    "attack": {
+                        "Physical": "104",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "22"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Noble's Estoc is a Thrusting Sword in Elden Ring. The Noble's Estoc scales primarily with Strength and Dexterity and is a good Weapon for easy use or for selling. It comes with the skill, Impaling Thrust that allows its pierce to overcome enemy shields.",
+                        "location": [
+                            "Dropped by Wandering Nobles in Limgrave, Raya Lucaria Academy and Altus Plateau, who wear feathered caps and coats."
+                        ],
+                        "fp": "9",
+                        "weight": "3.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Cleanrot Knight's Sword",
+                    "attack": {
+                        "Physical": "109",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "51",
+                        "Magic": "34",
+                        "Fire": "34",
+                        "Lightning": "34",
+                        "Holy": "34",
+                        "Boost": "23"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Cleanrot Knight's Sword is the longest Thrusting Sword in Elden Ring despite appearing shorter than the Estoc. Cleanrot Knight's Sword scales primarily with Strength and Dexterity, but in the long run scales higher with Strength rather than Dexterity. Overall, it is a good Weapon for those who want to wield it. ",
+                        "location": [
+                            "Drops from most Lesser Cleanrot Knights."
+                        ],
+                        "fp": "9",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Antspur Rapier",
+                    "attack": {
+                        "Physical": "98",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "21"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Antspur Rapier is a Thrusting Sword in Elden Ring. The Antspur Rapier scales primarily with Strength and Dexterity and is a good Weapon for inflicting addition scarlet rot buildup in addition to Physical Damage. With Impaling Thrust, users can also pierce through enemy's guards, giving the user an advantage in combat.",
+                        "location": [
+                            "Dropped by Maleigh Marais, Shaded Castle Castellan, a hostile NPC found in the fields west of The Shaded Castle."
+                        ],
+                        "fp": "14",
+                        "weight": "3",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Frozen Needle",
+                    "attack": {
+                        "Physical": "99",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "40",
+                        "Fire": "28",
+                        "Lightning": "28",
+                        "Holy": "28",
+                        "Boost": "20"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Frozen Needle is a Thrusting Sword in Elden Ring. The Frozen Needle scales primarily with Strength and Dexterity and is a good Weapon for inflicting frost on enemies. ",
+                        "location": [
+                            "Kingsrealm Ruins: Found in a chest inside a small room at the end of the underground area in the northeast. Requires defeating of the Royal Revenant boss in order to access the room."
+                        ],
+                        "fp": "14",
+                        "weight": "2.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
+            "heavythrustingSwords": [
+                {
+                    "name": "Sword Lance",
+                    "attack": {
+                        "Physical": "132",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "73",
+                        "Magic": "39",
+                        "Fire": "39",
+                        "Lightning": "39",
+                        "Holy": "39",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "21",
+                        "Dexterity": "11"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Sword Lance is a Heavy Thrusting Sword in Elden Ring. The Sword Lance scales primarily with Strength and Dexterity and is available after trading  the Remembrance of the Wild Boar Rider with Enia at the Roundtable Hold. This weapon comes with the Spinning Gravity Thrust which lets you levitate and thrust towards an enemy while spinning",
+                        "location": [
+                            "Can be selected as one of the possible rewards when trading Remembrance of the Wild Boar Rider with Enia at the Roundtable Hold."
+                        ],
+                        "fp": "9",
+                        "weight": "9",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Queelign's Greatsword",
+                    "attack": {
+                        "Physical": "117",
+                        "Magic": "0",
+                        "Fire": "35",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "50",
+                        "Magic": "34",
+                        "Fire": "45",
+                        "Lightning": "34",
+                        "Holy": "34",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "18",
+                        "Faith": "12"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Queelign's Greatsword is a Heavy Thrusting Sword in Elden Ring. It is a brand new Heavy Thrusting Sword in the Shadow of the Erdtree DLC. The Queelign's Greatsword scales primarily with Strength, Dexterity and Faith and is the Weapon wielded by Fire Knight Queelign. ",
+                        "location": [
+                            "Shadow Keep: Use the Iris of Occultation on Queelign in the Prayer Room to receive Queelign's Greatsword."
+                        ],
+                        "fp": "9",
+                        "weight": "7.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Great Épée",
+                    "attack": {
+                        "Physical": "124",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "52",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "15",
+                        "Dexterity": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Great Épée is a Heavy Thrusting Sword in Elden Ring. The Great Épée scales primarily with Strength and Dexterity and is a good Weapon for combat where thrusting will benefit the fighter. Its extra weight packs some extra physical attack power and still allows players to use this weapon with a shield. ",
+                        "location": [
+                            "Go due east from the Agheel Lake South site of grace, and up the hill with gravestones. It's in a chest near two Kaiden Sellswords. It's next to the green and yellow banner, in front of the right most yellow canopy tent."
+                        ],
+                        "fp": "9",
+                        "weight": "6.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Godskin Stitcher",
+                    "attack": {
+                        "Physical": "127",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "55",
+                        "Magic": "38",
+                        "Fire": "38",
+                        "Lightning": "38",
+                        "Holy": "38",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "17"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Godskin Stitcher is a Heavy Thrusting Sword in Elden Ring. The Godskin Stitcher scales primarily with Strength and Dexterity and is a potent Weapon for combat situations where Pierce damage and thrusting moveset will benefit the player.",
+                        "location": [
+                            "Dropped by Godskin Noble at Volcano Manor."
+                        ],
+                        "fp": "9",
+                        "weight": "7",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Bloody Helice",
+                    "attack": {
+                        "Physical": "121",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "57",
+                        "Magic": "40",
+                        "Fire": "40",
+                        "Lightning": "40",
+                        "Holy": "40",
+                        "Boost": "34"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Arcane": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "19",
+                        "Arcane": "17"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bloody Helice is a Heavy Thrusting Sword in Elden Ring. It is wielded by dynastic servants of the Lord of Blood. The Bloody Helice scales primarily with Arcane and Dexterity and is a good Weapon for Piercing Damage and additional blood loss along with a complementing Unique Skill, Dynast's Finesse which allows the user to avoid an attack and follow up with a strong attack. ",
+                        "location": [
+                            "In the Writheblood Ruins in Altus Plateau, found in a chest after the boss."
+                        ],
+                        "fp": "5",
+                        "weight": "8",
+                        "skill": [
+                            {
+                                "name": "Dynast's Finesse",
+                                "description": "Dynast's Finesse is a Skill in Elden Ring. Dynast's Finesse is a Unique skill found on the Bloody Helice which can add extra damage to foes.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Dragon King's Cragblade",
+                    "attack": {
+                        "Physical": "92",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "59",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "46",
+                        "Magic": "32",
+                        "Fire": "32",
+                        "Lightning": "46",
+                        "Holy": "32",
+                        "Boost": "34"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "37"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Dragon King's Cragblade is a Heavy Thrusting Sword in Elden Ring. The Dragon King's Cragblade scales primarily with Dexterity, with reduced scaling on Strength, and is a potent Weapon to oppose dragon-like creatures or enemies that are susceptible to Lightning damage. ",
+                        "location": [
+                            "Trade Remembrance of the Dragonlord with Enia at Roundtable Hold."
+                        ],
+                        "fp": "28",
+                        "weight": "8",
+                        "skill": [
+                            {
+                                "name": "Thundercloud Form",
+                                "description": "Thundercloud Form is a Skill in Elden Ring. Thundercloud Form is a special skill that is only available for the Dragon King's Cragblade, and cannot be applied to other weapons via Ashes of War.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
+            "curveSwords": [
+                {
+                    "name": "Spirit Sword",
+                    "attack": {
+                        "Physical": "92",
+                        "Magic": "59",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "38",
+                        "Magic": "38",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "19"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "8",
+                        "Dexterity": "16",
+                        "Intelligence": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Spirit Sword is a Curved Sword in Elden Ring. It is a brand new Curved Sword in the Shadow of the Erdtree DLC. The Spirit Sword scales primarily with Strength, Dexterity, and Intelligence and is a good Weapon for INT characters in the look for a sword. ",
+                        "location": [
+                            "You can find this weapon in the Cerulean Coast. Northeast from the Cerulean Coast West site of grace, the entrance to a triangular ravine can be accessed. It's in the right corner in that lower area, near some demi-humans."
+                        ],
+                        "fp": "12",
+                        "weight": "2.5",
+                        "skill": [
+                            {
+                                "name": "Rancor Slash",
+                                "description": "Rancor Slash is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Rancor Slash performs a spin that slashes enemies while also summoning vengeful spirits which chase down foes and deal damage. Can be followed-up by an additional attack.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Falx",
+                    "attack": {
+                        "Physical": "107",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "23"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Falx is a Curved Sword in Elden Ring. It is found in the Shadow of the Erdtree DLC. The Falx scales with Strength and Dexterity. This comes with the Revenger's Blade skill which lets you dash up to an enemy and slash them open with the blades held in each hand and has tremendous bleed build-up.",
+                        "location": [
+                            "If you summoned him to fight Messmer the Impaler, he will drop the Falx after invading you near the Church of the Bud site of grace ",
+                            "If you choose to assist Leda and invade Hornsent in Shadow Keep, he will drop the Falx once defeated"
+                        ],
+                        "fp": "15",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Revenger's Blade",
+                                "description": "Revenger's Blade is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Revenger's Blade performs a dash towards and enemy and uses both blades to slash it open.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Dancing Blade of Ranah",
+                    "attack": {
+                        "Physical": "88",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "37",
+                        "Magic": "28",
+                        "Fire": "29",
+                        "Lightning": "29",
+                        "Holy": "27",
+                        "Boost": "20"
+                    },
+                    "scaling": {
+                        "Strength": "",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Dancing Blade of Ranah is a paired Curved Sword in Elden Ring. It is a brand new Curved Sword in the Shadow of the Erdtree DLC. The Dancing Blade of Ranah scales primarily with Dexterity and is a good Weapon for Dexterity Builds that attack rapidly. This weapon comes with the Unending Dance Skill which lets you slash repeatedly until you drain your stamina.",
+                        "location": [
+                            "Dropped by defeating Dancer of Ranah at the Southern Nameless Mausoleum"
+                        ],
+                        "fp": "2",
+                        "weight": "3.5",
+                        "skill": [
+                            {
+                                "name": "Unending Dance",
+                                "description": "Unending Dance is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Unending Dance allows the user to perform a dance that a succession of slashing attacks in a furious dance.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Horned Warrior's Sword",
+                    "attack": {
+                        "Physical": "108",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "20",
+                        "Faith": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "It is a brand new Curved Sword in the Shadow of the Erdtree DLC. The Horned Warrior's Sword scales primarily with Strength and Dexterity and is a good Weapon for players who like paired weapons or Curved Swords but don't want to farm two. This comes with the Horn Calling skill which lets you do a ground slam with the weapon, letting multiple horns come out of the ground under an enemy.",
+                        "location": [
+                            "This can be obtained by eliminating the Horned Warrior in the Belurat Tower Settlement Swamp.",
+                            "Drops from a Horned Warrior who wields them, located just by Ravine north Site of Grace"
+                        ],
+                        "fp": "17",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Horn Calling",
+                                "description": "Horn Calling is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Horn Calling covers the weapon's blade with horns and then strikes the ground, making piercing horns protude below the enemy.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Scimitar",
+                    "attack": {
+                        "Physical": "106",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "25"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "7",
+                        "Dexterity": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Scimitar is a Curved Sword in Elden Ring. The Scimitar scales primarily with Strength and Dexterity is a good Weapon for Melee-Based Strength and Dexterity characters. Scimitars are a fantastic weapon for damage output when status is applied to them due to their swift slashing moveset. The decreased range may be an issue for some players, but it is a powerful weapon regardless, especially when given a Blood infusion.",
+                        "location": [
+                            "Starting Equipment for the Warrior Class",
+                            "Can be purchased from Twin Maiden Husks at the Roundtable Hold"
+                        ],
+                        "fp": "6",
+                        "weight": "3",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Falchion",
+                    "attack": {
+                        "Physical": "109",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "26"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Falchion is a Curved Sword in Elden Ring. The Falchion scales primarily with Dexterity and Strength and is a good Weapon for Slashing less heavy enemies. This weapon is ideal for clearing smaller enemies in numbers but can be deemed ineffective against foes with thicker armor.  ",
+                        "location": [
+                            "Potential drop from falchion-wielding Demi-Humans."
+                        ],
+                        "fp": "6",
+                        "weight": "3.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Shamshir",
+                    "attack": {
+                        "Physical": "108",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "26"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "7",
+                        "Dexterity": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Shamshir is a Curved Sword in Elden Ring. The Shamshir scales primarily with Strength and Dexterity and is a good Weapon for high dexterity characters who can excel at slashing attacks while spinning. ",
+                        "location": [
+                            "On a body located at the bottom of Highroad Cave, on a platform after the waterfall section, being feasted on by Giant Bats."
+                        ],
+                        "fp": "6",
+                        "weight": "3.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Grossmesser",
+                    "attack": {
+                        "Physical": "115",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "46",
+                        "Magic": "34",
+                        "Fire": "34",
+                        "Lightning": "34",
+                        "Holy": "34",
+                        "Boost": "28"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "12"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Grossmesser is a Curved Sword in Elden Ring. The Grossmesser scales primarily with Dexterity and Strength. Its Spinning Slash skill allows the player to spin and deal Slash damage to foes in range. The skill is particularly good against groups of enemies.",
+                        "location": [
+                            "A possible drop from Skeletons that wield the weapon. For example, this weapon can be dropped by Skeletons in Tombsward Catacombs. The Skeletons that may drop a Grossmesser do not use a shield or a bow, and can be recognized by their rolling move."
+                        ],
+                        "fp": "6",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Bandit's Curved Sword",
+                    "attack": {
+                        "Physical": "118",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bandit's Curved Sword is a Curved Sword in Elden Ring. The Bandit's Curved Sword scales primarily with Strength and Dexterity and is a good Weapon for high dexterity characters who can excel at slashing attacks while spinning.",
+                        "location": [
+                            "Bandit's Curved Sword can be dropped by the Skeletal Bandits in Limgrave & Altus Plateau"
+                        ],
+                        "fp": "6",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
             "curveGreatSwords": [],
             "katanas": [],
             "twinBlades": [],
