@@ -9210,12 +9210,12 @@
                     "scaling": {
                         "Strength": "C",
                         "Dexterity": "E",
-                        "Faith":"F"
+                        "Faith": "F"
                     },
                     "requiredStats": {
                         "Strength": "18",
                         "Dexterity": "15",
-                        "Faith":"22"
+                        "Faith": "22"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -9242,7 +9242,7 @@
                 {
                     "name": "Eleonora's Poleblade",
                     "attack": {
-                        "Physical":"72",
+                        "Physical": "72",
                         "Magic": "0",
                         "Fire": "72",
                         "Lightning": "0",
@@ -9260,12 +9260,12 @@
                     "scaling": {
                         "Strength": "E",
                         "Dexterity": "D",
-                        "Arcane":"D"
+                        "Arcane": "D"
                     },
                     "requiredStats": {
                         "Strength": "12",
                         "Dexterity": "21",
-                        "Faith":"19"
+                        "Faith": "19"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -9290,7 +9290,834 @@
                     }
                 }
             ],
-            "Axes": [],
+            "Axes": [
+                {
+                    "name": "Forked-Tongue Hatchet",
+                    "attack": {
+                        "Physical": "125",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "45",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Forked-Tongue Hatchet is an Axe in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Forked-Tongue Hatchet scales primarily with Strength and Dexterity.",
+                        "location": [
+                            "Dropped by Imps in Shadow of The Erdtree's Catacombs."
+                        ],
+                        "fp": "14",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Dragonform Flame",
+                                "description": "Dragonform Flame is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Dragonform Flame spews lingering fire from the hatchet in front of the user.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Smithscript Axe",
+                    "attack": {
+                        "Physical": "131",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "32",
+                        "Fire": "32",
+                        "Lightning": "32",
+                        "Holy": "32",
+                        "Boost": "32"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Intelligence": "E",
+                        "Faith": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "13",
+                        "Dexterity": "10",
+                        "Intelligence": "11",
+                        "Faith": "11"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Smithscript Axe is an Axe in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Smithscript Axe scales primarily with Strength, Dexterity, Intelligence and Faith and is a good Weapon for players that want a ranged melee alternative without a FP cost. As a Smithscript weapon, it can be thrown and immediately returns to the user's hand.",
+                        "location": [
+                            "Taylew's Ruined Forge: From the initial site of grace, continue following the path, get past the enemy, and take the ladder down then jump across the other platforms and turn left. You will find a Golem there. Behind it, at the back of the room, you will find the Smithscript Axe."
+                        ],
+                        "fp": "2",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Wild Strikes",
+                                "description": "Wild Strikes is a Skill in Elden Ring. Wild Strikes is a damaging skill which temporarily allows wild swinging, affecting foes within range.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Messmer Soldier's Axe",
+                    "attack": {
+                        "Physical": "133",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Messmer Soldier's Axe is an Axe in Elden Ring. It is a brand new Axe in the Shadow of the Erdtree DLC. The Messmer Soldier's Axe scales primarily with Strength and Dexterity and is a good Weapon for Builds that like to use Charged Heavy Attacks. It's weapon skill, War Cry, lets you increase attack power and lets you charge the enemy with heavy attacks.",
+                        "location": [
+                            "Has a 2% chance to be dropped by the Messmer Soldiers that wield it."
+                        ],
+                        "fp": "16",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "War Cry",
+                                "description": "War Cry is a Skill in Elden Ring. War Cry is a temporary attack boost to give players an extra advantage during combat. War Cry uses the Heavy Affinity and is compatible with all melee armaments except daggers, thrusting swords, and whips. It grants similar heavy attacks to Braggart's Roar and is a roar buff like Barbaric Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Death Knight's Twin Axes",
+                    "attack": {
+                        "Physical": "101",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "65",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "44",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "44",
+                        "Holy": "30",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "12",
+                        "Faith": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Death Knight's Twin Axes is an Axe in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Death Knight's Twin Axes scales primarily with Strength, Dexterity and Faith and is a good Weapon for faith builds. This comes with the Blinkbolt: Twinaxe skill, which transforms you into a bolt of lightning.",
+                        "location": [
+                            "Fog Rift Catacombs: The weapon is obtained as a reward for defeating the Death Knight boss. "
+                        ],
+                        "fp": "8",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Blinkbolt: Twinaxe",
+                                "description": "Blinkbolt: Twinaxe is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Blinkbolt: Twinaxe allows the user to transform in a rapid bolt of lightning that charges ahead unstoppable.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Hand Axe",
+                    "attack": {
+                        "Physical": "117",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "28",
+                        "Fire": "28",
+                        "Lightning": "28",
+                        "Holy": "28",
+                        "Boost": "28"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Hand Axe is an Axe in Elden Ring. The Hand Axe scales primarily with Strength and Dexterity, and is a good Weapon for close combat characters, exceling in successive attacks. ",
+                        "location": [
+                            "Can be bought from the Nomadic Merchant in East Limgrave"
+                        ],
+                        "fp": "3",
+                        "weight": "3.5",
+                        "skill": [
+                            {
+                                "name": "Quickstep",
+                                "description": "Quickstep is a Skill in Elden Ring. Quickstep is an action skill that allows players to reposition themselves in combat to avoid incoming damage and gain a better position to attack the targeted enemy. Quickstep uses Keen Affinity and is usable all melee arnaments.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Forked Hatchet",
+                    "attack": {
+                        "Physical": "113",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "27",
+                        "Fire": "27",
+                        "Lightning": "27",
+                        "Holy": "27",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Forked Hatchet is an Axe in Elden Ring. The Forked Hatchet scales primarily with Dexterity and Strength and is a good Weapon for causing bloodloss and using the paired skill to reposition for a higher chance at a hit. ",
+                        "location": [
+                            "Dropped by Imps using this weapon."
+                        ],
+                        "fp": "3",
+                        "weight": "2.5",
+                        "skill": [
+                            {
+                                "name": "Quickstep",
+                                "description": "Quickstep is a Skill in Elden Ring. Quickstep is an action skill that allows players to reposition themselves in combat to avoid incoming damage and gain a better position to attack the targeted enemy. Quickstep uses Keen Affinity and is usable all melee arnaments.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Battle Axe",
+                    "attack": {
+                        "Physical": "128",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Battle Axe is an Axe in Elden Ring. The Battle Axe scales primarily with Strength and Dexterity is a good Weapon for melee users who want to deal considerable damage with each swing.",
+                        "location": [
+                            "Starting Equipment for the Hero Class",
+                            "Can be purchased from Twin Maiden Husks at the Roundtable Hold"
+                        ],
+                        "fp": "1",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Wild Strikes",
+                                "description": "Wild Strikes is a Skill in Elden Ring. Wild Strikes is a damaging skill which temporarily allows wild swinging, affecting foes within range.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Warped Axe",
+                    "attack": {
+                        "Physical": "124",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "56",
+                        "Magic": "37",
+                        "Fire": "37",
+                        "Lightning": "37",
+                        "Holy": "37",
+                        "Boost": "43"
+                    },
+                    "scaling": {
+                        "Strength": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "24",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Warped Axe is an Axe in Elden Ring. The Warped Axe scales primarily with Strength and is a good Weapon for melee users who want to deal considerable damage with each swing. ",
+                        "location": [
+                            "Has a chance to drop from Omens  wielding this weapon.",
+                            "Can drop from the Omen in the Cliffbottom Catacombs."
+                        ],
+                        "fp": "16",
+                        "weight": "7.5",
+                        "skill": [
+                            {
+                                "name": "War Cry",
+                                "description": "War Cry is a Skill in Elden Ring. War Cry is a temporary attack boost to give players an extra advantage during combat. War Cry uses the Heavy Affinity and is compatible with all melee armaments except daggers, thrusting swords, and whips. It grants similar heavy attacks to Braggart's Roar and is a roar buff like Barbaric Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Jawbone Axe",
+                    "attack": {
+                        "Physical": "130",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "36"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Jawbone Axe is an Axe in Elden Ring. The Jawbone Axe scales primarily with Strength and Dexterity, and is a good Weapon for for aggressive characters who like to face enemies head on. This weapon allows players to take swing after swing especially with the Skill, Wild Strikes. ",
+                        "location": [
+                            "Can be dropped by Ancestral Follower.",
+                            "here are 8  Ancestral Follower with Jawbone Axe just north then east of the Mausoleum Compound site of grace"
+                        ],
+                        "fp": "1",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Wild Strikes",
+                                "description": "Wild Strikes is a Skill in Elden Ring. Wild Strikes is a damaging skill which temporarily allows wild swinging, affecting foes within range. Updated to Patch 1.07. Wild Strikes has heavy affinity and it uses axes, hammers, curved swords and greatswords. Excluding Colossal Weapons",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Iron Cleaver",
+                    "attack": {
+                        "Physical": "125",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "51",
+                        "Magic": "34",
+                        "Fire": "34",
+                        "Lightning": "34",
+                        "Holy": "34",
+                        "Boost": "34"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "15",
+                        "Dexterity": "7"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Iron Cleaver is a Axe in Elden Ring. The Iron Cleaver scales primarily with Dexterity and Strength and is a good Weapon for aggressive fighters who like to face foes head on. This weapon allows players to take swing after swing especially with the Skill, Wild Strikes. ",
+                        "location": [
+                            "Castle Morne. Dropped by the Misbegotten creatures using this weapon."
+                        ],
+                        "fp": "1",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Wild Strikes",
+                                "description": "Wild Strikes is a Skill in Elden Ring. Wild Strikes is a damaging skill which temporarily allows wild swinging, affecting foes within range. Updated to Patch 1.07. Wild Strikes has heavy affinity and it uses axes, hammers, curved swords and greatswords. Excluding Colossal Weapons",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Highland Axe",
+                    "attack": {
+                        "Physical": "128",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "9"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Highland Axe is a Axe in Elden Ring. The Highland Axe scales primarily with Strength and Dexterity and is a fine Weapon for combat when an attack boost is needed. The skill that accompanies this weapon can temporarily increase attack power and modify its charging attacks. ",
+                        "location": [
+                            "Location: Stormveil Castle."
+                        ],
+                        "fp": "16",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "War Cry",
+                                "description": "War Cry is a Skill in Elden Ring. War Cry is a temporary attack boost to give players an extra advantage during combat. War Cry uses the Heavy Affinity and is compatible with all melee armaments except daggers, thrusting swords, and whips. It grants similar heavy attacks to Braggart's Roar and is a roar buff like Barbaric Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Celebrant's Cleaver",
+                    "attack": {
+                        "Physical": "125",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Celebrant's Cleaver is a Axe in Elden Ring. The Celebrant's Cleaver scales primarily with Strength and Dexterity and is a good Weapon for those users with high Strength and Dexterity stats. ",
+                        "location": [
+                            "Possible drop from celebrating enemies that wield it, in Dominula, Windmill village."
+                        ],
+                        "fp": "2",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Wild Strikes",
+                                "description": "Wild Strikes is a Skill in Elden Ring. Wild Strikes is a damaging skill which temporarily allows wild swinging, affecting foes within range. Updated to Patch 1.07. Wild Strikes has heavy affinity and it uses axes, hammers, curved swords and greatswords. Excluding Colossal Weapons",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Sacrificial Axe",
+                    "attack": {
+                        "Physical": "133",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Sacrificial Axe is an Axe in Elden Ring. The Sacrificial Axe scales primarily with Strength and Dexterity, and is a good Weapon for for aggressive characters who like to face enemies head on. This weapon allows players to take swing after swing especially with the Skill, Wild Strikes. ",
+                        "location": [
+                            "Weeping Peninsula (Nighttime only): Dropped by Deathbird that spawns north from Castle Morne."
+                        ],
+                        "fp": "2",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Wild Strikes",
+                                "description": "Wild Strikes is a Skill in Elden Ring. Wild Strikes is a damaging skill which temporarily allows wild swinging, affecting foes within range. Updated to Patch 1.07. Wild Strikes has heavy affinity and it uses axes, hammers, curved swords and greatswords. Excluding Colossal Weapons",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Icerind Hatchet",
+                    "attack": {
+                        "Physical": "115",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "27",
+                        "Fire": "27",
+                        "Lightning": "27",
+                        "Holy": "27",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Icerind Hatchet is an Axe in Elden Ring. The Icerind Hatchet scales primarily with Dexterity, with reduced scaling in Strength, and is a good Weapon for inflicting Frost against enemies both in single target and AoE scenarios.",
+                        "location": [
+                            "Can be found at Temple Quarter, southeast of the Site of Grace, in a chest located inside the ruined bell tower, adjacent to a ring of flowers."
+                        ],
+                        "fp": "10",
+                        "weight": "3",
+                        "skill": [
+                            {
+                                "name": "Hoarfrost Stomp",
+                                "description": "Hoarfrost Stomp is a Skill in Elden Ring. Hoarfrost Stomp is a regular skill that can be found in Ashes of War that can be used on all melee armaments. Hoarfrost Stomp has Cold Affinity and uses all melee armaments.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ripple Blade",
+                    "attack": {
+                        "Physical": "75",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Arcane": "A"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "11",
+                        "Arcane":"20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Ripple Blade is a Axe in Elden Ring. The Ripple Blade scales primarily with Arcane and is a good Weapon for those users with high Arcane stat, as the Ripple Blade's damage increases with players' Arcane attribute. ",
+                        "location": [
+                            "Sold by Pidia, Carian Servant at Caria Manor: on a balcony above the Manor Lower Level site of grace. Only accessible by dropping down the cliffs from the southwestern side of the Three Sisters sub-area."
+                        ],
+                        "fp": "2",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Wild Strikes",
+                                "description": "Wild Strikes is a Skill in Elden Ring. Wild Strikes is a damaging skill which temporarily allows wild swinging, affecting foes within range. Updated to Patch 1.07. Wild Strikes has heavy affinity and it uses axes, hammers, curved swords and greatswords. Excluding Colossal Weapons",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Stormhawk Axe",
+                    "attack": {
+                        "Physical": "136",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"D"
+                    },
+                    "requiredStats": {
+                        "Strength": "19",
+                        "Dexterity": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Stormhawk Axe is a Axe in Elden Ring. The Stormhawk Axe scales primarily with Strength and Dexterity and is a good weapon for users who want to engage enemies in close combat with slashing attacks, with the addition of lightning damage.",
+                        "location": [
+                            " "
+                        ],
+                        "fp": "19",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Thunderstorm",
+                                "description": "Thunderstorm is a Skill in Elden Ring. Thunderstorm is a special skill that is only available for the Stormhawk Axe, and cannot be applied to other weapons via Ashes of War.This ability generates a storm of lightning while the weapon remains with Lightning Damage for a short period of time.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Rosus' Axe",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "72",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "44",
+                        "Magic": "44",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"E",
+                        "Intelligence":"D"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "10",
+                        "Intelligence":"18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Stormhawk Axe is a Axe in Elden Ring. The Stormhawk Axe scales primarily with Strength and Dexterity and is a good weapon for users who want to engage enemies in close combat with slashing attacks, with the addition of lightning damage.",
+                        "location": [
+                            "Located behind a Stonesword Key door in Black Knife Catacombs."
+                        ],
+                        "fp": "15",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Rosus's Summons",
+                                "description": "Rosus's Summons is a Skill in Elden Ring. Rosus's Summons is a Unique skill found on the Rosus' Axe. Raise the axe aloft to summon those lost in death. Three skeletons will appear at a distance and attack in tandem before vanishing",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
             "greatAxes": [],
             "hammers ": [],
             "flails ": [],
