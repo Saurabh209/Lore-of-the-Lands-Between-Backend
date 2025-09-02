@@ -7374,11 +7374,1922 @@
                             "It contain gameplay video with this with this weapon"
                         ]
                     }
+                },
+                {
+                    "name": "Shotel",
+                    "attack": {
+                        "Physical": "96",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "37",
+                        "Magic": "27",
+                        "Fire": "27",
+                        "Lightning": "27",
+                        "Holy": "27",
+                        "Boost": "22"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "19"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Shotel is a Curved Sword in Elden Ring. The Shotel scales primarily with Strength and Dexterity and is a good Weapon for melee attacks and dealing damage with body spins by using the Spinning Slash skill.  ",
+                        "location": [
+                            "Can be purchased from the Nomadic Merchant in Siofra River"
+                        ],
+                        "fp": "6",
+                        "weight": "2",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Scavenger's Curved Sword",
+                    "attack": {
+                        "Physical": "105",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "25"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "The Scavenger's Curved Sword is a Curved Sword in Elden Ring. The Scavenger's Curved Sword scales primarily with Strength and Dexterity and is a good Weapon for melee users who want to perform short-reaching heavier hits.",
+                        "location": [
+                            "Found in Mt. Gelmir, on a corpse near a Grafted Scion across a stone pillar-bridge north west of the First Mt. Gelmir Campsite site of grace. The corpse closest to the ladder has the blade. "
+                        ],
+                        "fp": "6",
+                        "weight": "3.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Scavenger's Curved Sword",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "44",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "12"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Mantis Blade is a Curved Sword in Elden Ring. The Mantis Blade scales primarily with Strength and Dexterity and is a good Weapon for melee combat and Physical Damage. ",
+                        "location": [
+                            "Dropped by Lesser Cemetery Shade in Gelmir Hero's Grave.",
+                            "The shade is in the alcove at the same spot you drop down to ride the chariot. This is easily missed.",
+                            "It is likely a guaranteed drop on the first kill, then it may not drop again."
+                        ],
+                        "fp": "6",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Beastman's Curved Sword",
+                    "attack": {
+                        "Physical": "113",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "44",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "13",
+                        "Dexterity": "11"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Beastman's Curved Sword is a Curved Sword in Elden Ring. The Beastman's Curved Sword scales primarily with Strength and with its wild shape and design represents the primal nature of their wielders.",
+                        "location": [
+                            "7 beastmen carrying this weapon can be found near the Crumbling Beast Grave Site of Grace in Crumbling Farum Azula."
+                        ],
+                        "fp": "6",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Flowing Curved Sword",
+                    "attack": {
+                        "Physical": "109",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "26"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "17"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Flowing Curved Sword is a Curved Sword in Elden Ring. The Flowing Curved Sword scales primarily with Strength and Dexterity and is a good Weapon for high dexterity characters who can excel at slashing attacks while spinning.",
+                        "location": [
+                            "Consecrated Snowfield: Southwest of the Inner Consecrated Snowfield site of grace two Trolls are pulling a Carriage with a chest containing the Flowing Curved Sword. The Carriage is protected at night by two Night Cavalry."
+                        ],
+                        "fp": "6",
+                        "weight": "3.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Serpent-God's Curved Sword",
+                    "attack": {
+                        "Physical": "113",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "44",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "13",
+                        "Dexterity": "9"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Serpent-God's Curved Sword is a Curved Sword in Elden Ring. The Serpent-God's Curved Sword scales primarily with Strength and Dexterity and is a good Weapon for leeching health builds. ",
+                        "location": [
+                            "Can be found at Ruin-Strewn Precipice. From the Ruin-Strewn Precipice Overlook Grace, take the elevator down and continue forward. Go down the steps, then up the ladder that leads to a roof area. The sword is behind the Land Octopus."
+                        ],
+                        "fp": "6",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Magma Blade",
+                    "attack": {
+                        "Physical": "96",
+                        "Magic": "0",
+                        "Fire": "62",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "44",
+                        "Magic": "30",
+                        "Fire": "44",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "15",
+                        "Faith": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Magma Blade is a Curved Sword in Elden Ring. The Magma Blade scales primarily with Strength and Faith, with reduced scaling in Dexterity, and is a good Weapon for characters who prioritise strength and want to deal additional Fire damage while benefitting from the swift curved sword move set. ",
+                        "location": [
+                            "Possible drop from Man-Serpent enemies wielding the orange glowing Magma Blade at Volcano Manor."
+                        ],
+                        "fp": "12",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Magma Shower",
+                                "description": "Magma Shower is a Skill in Elden Ring. Magma Shower is a unique skill that can be used on the Magma Blade. It allows the players to slash foes while scattering magma all around the area.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Nox Flowing Sword",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "25"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "8",
+                        "Dexterity": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Nox Flowing Sword is a Curved Sword in Elden Ring. The Nox Flowing Sword scales primarily with Dexterity and Strength and is a good Weapon for players who want a versatile Sword, that can also behave like a Whip",
+                        "location": [
+                            "Sellia, Town of Sorcery: Dropped by the Nox Swordstress & Nox Priest boss duo upon defeat."
+                        ],
+                        "fp": "12",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Flowing Form",
+                                "description": "Flowing Form is a Skill in Elden Ring. Flowing Form is a skill that allows the sword to behave like a whip.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Wing of Astel",
+                    "attack": {
+                        "Physical": "65",
+                        "Magic": "78",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "28",
+                        "Magic": "52",
+                        "Fire": "23",
+                        "Lightning": "23",
+                        "Holy": "23",
+                        "Boost": "22"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "8",
+                        "Dexterity": "15",
+                        "Intelligence": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Nox Flowing Sword is a Curved Sword in Elden Ring. The Nox Flowing Sword scales primarily with Dexterity and Strength and is a good Weapon for players who want a versatile Sword, that can also behave like a Whip",
+                        "location": [
+                            "Sellia, Town of Sorcery: Dropped by the Nox Swordstress & Nox Priest boss duo upon defeat."
+                        ],
+                        "fp": "20",
+                        "weight": "2.5",
+                        "skill": [
+                            {
+                                "name": "Nebula ",
+                                "description": "Nebula is a Skill in Elden Ring. Nebula leaves a powerful dark cloud that explode after a short while.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Eclipse Shotel",
+                    "attack": {
+                        "Physical": "77",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "77",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "35",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "50",
+                        "Boost": "25"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "25",
+                        "Faith": "30"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Eclipse Shotel is a Curved Sword in Elden Ring. The Eclipse Shotel scales primarily with Faith and Dexterity and is a good Weapon for inflicting the death ailment upon foes followed by a flare if an additional input brings down the armament. ",
+                        "location": [
+                            "Castle Sol: Found at the altar of the church in the southeast section of the castle."
+                        ],
+                        "fp": "16",
+                        "weight": "3",
+                        "skill": [
+                            {
+                                "name": "Death Flare ",
+                                "description": "Death Flare is a Skill in Elden Ring. Death Flare is the unique skill of the Eclipse Shotel, which can inflict the Death Blight ailment upon foes.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
                 }
             ],
-            "curveGreatSwords": [],
-            "katanas": [],
-            "twinBlades": [],
+            "curveGreatSwords": [
+                {
+                    "name": "Horned Warrior's Greatsword",
+                    "attack": {
+                        "Physical": "130",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "73",
+                        "Magic": "39",
+                        "Fire": "39",
+                        "Lightning": "39",
+                        "Holy": "39",
+                        "Boost": "47"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "19",
+                        "Dexterity": "16",
+                        "Faith": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Horned Warrior's Greatsword is a Curved Greatsword in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Horned Warrior's Greatsword scales primarily with Strength, Dexterity and Faith and is a good Weapon for Builds that use Strength and Faith. This comes with the Horn Calling skill which lets you do a ground slam with the weapon, letting multiple horns come out of the ground under an enemy. ",
+                        "location": [
+                            "Guaranteed drop from the Wind-Aspected Divine Beast Warrior towards the end of Enir-Ilim."
+                        ],
+                        "fp": "22",
+                        "weight": "13",
+                        "skill": [
+                            {
+                                "name": "Horn Calling: Storm",
+                                "description": "Horn Calling: Storm is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Horn Calling: Storm covers the weapon's blade with horns, spinning it along with powerful storm winds.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Freyja's Greatsword",
+                    "attack": {
+                        "Physical": "146",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "75",
+                        "Magic": "39",
+                        "Fire": "39",
+                        "Lightning": "39",
+                        "Holy": "39",
+                        "Boost": "48"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "25",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Freyja's Greatsword is a Curved Greatsword in Elden Ring. It is a brand new Curved Greatsword in the Shadow of the Erdtree DLC. Freyja's Greatsword scales primarily with Strength and Dexterity and is the powerful Weapon wielded by Redmane Freyja. This comes with the Spinning Slash skill which is the favorite skill of dexterous warriors that lets you slash foes as your body spins. ",
+                        "location": [
+                            "If you gave her Freyja's Letter, you can find Freyja's Greatsword on her body after beating her in the Leda and Allies Boss fight ",
+                            "Otherwise, you can find it by the Storehouse, Seventh Floor Site of Grace after beating the Leda and Allies Boss fight"
+                        ],
+                        "fp": "6",
+                        "weight": "14",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Dismounter",
+                    "attack": {
+                        "Physical": "138",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "65",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "35",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "19",
+                        "Dexterity": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Dismounter is a Curved Greatsword in Elden Ring. The Dismounter scales primarily with Dexterity and Strength and is a potent Weapon for high stat players who can tolerate its weight and attack speed.",
+                        "location": [
+                            "Dropped by Kaiden Sellswords.",
+                            "A good place to farm is the Kaiden camp southwest of the Murkwater Coast grace. There are 3 Sellswords on foot and 2 running around on horses near the front of the camp. There is a third one patrolling the road near Agheel lake North."
+                        ],
+                        "fp": "6",
+                        "weight": "10",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Omen Cleaver",
+                    "attack": {
+                        "Physical": "142",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "66",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "19",
+                        "Dexterity": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Omen Cleaver is a Curved Greatsword in Elden Ring. The Omen Cleaver scales primarily with Strength and Dexterity and is a good Weapon for a wielder with great Strength to handle the weight of this weapon and take advantage of its Physical Damage power.",
+                        "location": [
+                            "Has a chance to drop from Omen enemies wielding it."
+                        ],
+                        "fp": "6",
+                        "weight": "11.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Monk's Flameblade",
+                    "attack": {
+                        "Physical": "134",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "61",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "39"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Monk's Flameblade is a Curved Greatsword in Elden Ring. The Monk's Flameblade scales primarily with Strength and Dexterity and is a good Weapon for players willing to trade weapon damage for lower weight.",
+                        "location": [
+                            "Dropped by Fire Monks in Mountaintops of the Giants."
+                        ],
+                        "fp": "6",
+                        "weight": "9",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Beastman's Cleaver",
+                    "attack": {
+                        "Physical": "143",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "81",
+                        "Magic": "43",
+                        "Fire": "43",
+                        "Lightning": "43",
+                        "Holy": "43",
+                        "Boost": "52"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": ""
+                    },
+                    "requiredStats": {
+                        "Strength": "25",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Beastman's Cleaver is a Curved Greatsword in Elden Ring. The Beastman's Cleaver scales primarily with Strength and is a good Weapon for high stat players that are capable of wielding this cleaver. Those who can handle this weapon may find this as a versatile weapon for even horseback battles.",
+                        "location": [
+                            "The Beastman's Cleaver has a chance to drop from any Azula Beastman carrying this weapon."
+                        ],
+                        "fp": "6",
+                        "weight": "16.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Bloodhound's Fang",
+                    "attack": {
+                        "Physical": "141",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "17"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bloodhound's Fang is a Curved Greatsword in Elden Ring. The Bloodhound's Fang scales primarily with Strength and Dexterity and is a potent Weapon, capable of performing brutal melee attacks against enemies and immediately taking distance from them.",
+                        "location": [
+                            "Dropped by the Bloodhound Knight Darriwil, in Limgrave."
+                        ],
+                        "fp": "8",
+                        "weight": "11.5",
+                        "skill": [
+                            {
+                                "name": "Bloodhound's Finesse",
+                                "description": "Bloodhound's Finesse is a Skill in Elden Ring. Bloodhound's Finesse is a special skill only available for the Bloodhound's Fang, and cannot be applied to other weapons via Ashes of War.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Onyx Lord's Greatsword",
+                    "attack": {
+                        "Physical": "118",
+                        "Magic": "76",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "57",
+                        "Magic": "42",
+                        "Fire": "29",
+                        "Lightning": "29",
+                        "Holy": "29",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "17",
+                        "Intelligence": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Onyx Lord's Greatsword is a Curved Greatsword in Elden Ring. The Onyx Lord's Greatsword scales primarily with Intelligence and Strength, with minor scaling in Dexterity. This Weapon sports a unique Magic Skill that can manipulate gravity and deal damage while allowing the user to create some distance from nearby enemies.",
+                        "location": [
+                            "Dropped by Onyx Lord in the Sealed Tunnel."
+                        ],
+                        "fp": "27",
+                        "weight": "11.5",
+                        "skill": [
+                            {
+                                "name": "Onyx Lord's Repulsion",
+                                "description": "Onyx Lord's Repulsion is a Skill in Elden Ring. Onyx Lord's Repulsion is a Unique skill found on the Onyx Lord's Greatsword, a powerful weapon with an added Magic Damage stat to complement this skill. This not only deals damage to nearby enemies, but also allows the user to distance himself when overwhelmed with enemies by manipulating gravity.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Zamor Curved Sword",
+                    "attack": {
+                        "Physical": "130",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "67",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "39"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Zamor Curved Sword is a Curved Greatsword in Elden Ring. The Zamor Curved Sword scales primarily with Dexterity, with reduced scaling in Strength. It is a good Weapon for building Frostbite against enemies.",
+                        "location": [
+                            "Giant-Conquering Hero's Grave: Dropped by the Ancient Hero of Zamor boss found at the end of the dungeon."
+                        ],
+                        "fp": "15",
+                        "weight": "9",
+                        "skill": [
+                            {
+                                "name": "Zamor Ice Storm",
+                                "description": "Zamor Ice Storm is a Skill in Elden Ring. Zamor Ice Storm is a skill that allows the user to unleash a freezing storm.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Magma Wyrm's Scalesword",
+                    "attack": {
+                        "Physical": "114",
+                        "Magic": "0",
+                        "Fire": "74",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "66",
+                        "Magic": "33",
+                        "Fire": "48",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "50"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "18",
+                        "Faith": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Magma Wyrm's Scalesword is a Curved Greatsword in Elden Ring. The Magma Wyrm's Scalesword scales primarily with Strength and Faith, with reduced scaling in Dexterity, and is a good Weapon for dealing additional Fire Damage during combat. This weapon's sharp-toothed edge can deal great damage to foes. Like its title suggests, it is a heavy-weight sword covered in hard scales and resembles the dragon's jaw. ",
+                        "location": [
+                            "Drops from Magma Wyrm Makar in Ruin-Strewn Precipice in northern Liurnia of the Lakes."
+                        ],
+                        "fp": "20",
+                        "weight": "15",
+                        "skill": [
+                            {
+                                "name": "Magma Guillotine",
+                                "description": "Magma Guillotine is a Skill in Elden Ring. Magma Guillotine is a Damaging skill accompanied by Fire Damage and is unique to the Magma Wyrm's Scalesword.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Morgott's Cursed Sword",
+                    "attack": {
+                        "Physical": "120",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "55",
+                        "Magic": "29",
+                        "Fire": "29",
+                        "Lightning": "29",
+                        "Holy": "29",
+                        "Boost": "35"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "35",
+                        "Faith": "17"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Morgott's Cursed Sword is a Curved Greatsword in Elden Ring. The Morgott's Cursed Sword scales primarily with Arcane and Dexterity, with reduced scaling in Strength, and is a good Weapon for melee combat. Its unique skill, Cursed-Blood Slice, allows players to charge forward and deliver a downward slice that causes an additional Blood Loss build up effect. ",
+                        "location": [
+                            "Can be purchased from Finger Reader Enia found at the Roundtable Hold with the Remembrance of the Omen King. "
+                        ],
+                        "fp": "20",
+                        "weight": "7.5",
+                        "skill": [
+                            {
+                                "name": "Cursed-Blood Slice",
+                                "description": "Cursed-Blood Slice is a Skill in Elden Ring. Cursed-Blood Slice is a unique skill on the Morgott's Cursed Sword. It allows users to perform a charge then slice to nearby opponents and follow up with another attack.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
+            "katanas": [
+                {
+                    "name": "Star-Lined Sword",
+                    "attack": {
+                        "Physical": "82",
+                        "Magic": "83",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "34",
+                        "Magic": "48",
+                        "Fire": "24",
+                        "Lightning": "24",
+                        "Holy": "24",
+                        "Boost": "29"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "23",
+                        "Intelligence": "21"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Star-Lined Sword is a Katana in Elden Ring. It is found in the Shadow of the Erdtree DLC. The Star-Lined Sword scales primarily with Strength, Dexterity, and Intelligence and is a good Weapon for dex oriented builds. This is a weapon that causes blood loss and has a skill called Onze's Line of Stars, which lets you slash multiple times with each slash getting stronger.",
+                        "location": [
+                            "Dropped by Demi-Human Queen Marigga, who can be found in the Cerulean Coast starting from Cerulean Coast West Site of Grace to follow the path northeast populated with demi-humans. "
+                        ],
+                        "fp": "10",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Onze's Line of Stars",
+                                "description": "Onze's Line of Stars is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Onze's Line of Stars imbues the blade with sorcerous energy to enhance slashing attacks damage. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Sword of Night",
+                    "attack": {
+                        "Physical": "110",
+                        "Magic": "33",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "43",
+                        "Magic": "35",
+                        "Fire": "27",
+                        "Lightning": "27",
+                        "Holy": "27",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Sword of Night is a Katana in Elden Ring. It is a brand new Katana in the Shadow of the Erdtree DLC. The Sword of Night scales  with Dexterity and is a good Weapon for DEX Builds. This comes with the skill, Witching Hour Slash which is an unblockable slash attack that infuses the dark of night on the blade.",
+                        "location": [
+                            "Cathedral of Manus Metyr: After completing the whole finger questline for Count Ymir, Jolan will be dejected nearby. Give her an Iris of Occultation to get the Sword of Night "
+                        ],
+                        "fp": "21",
+                        "weight": "6.5",
+                        "skill": [
+                            {
+                                "name": "Witching Hour Slash",
+                                "description": "Witching Hour Slash is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Witching Hour Slash is an unblockable slash attack that infuses the dark of night on the blade.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Uchigatana",
+                    "attack": {
+                        "Physical": "115",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "45",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Uchigatana is a Katana in Elden Ring. The Uchigatana scales primarily with Strength and Dexterity and is a good Weapon for Piercing and Slash Damage in combat.  ",
+                        "location": [
+                            "Starting Equipment for the Samurai Class.",
+                            "The Uchigatana can be found inside the Deathtouched Catacombs in Stormhill, Limgrave. Pull the lever to unlock a door in one of the earlier halls. You will find the Uchigatana on a dead body hanging over the edge of a platform."
+                        ],
+                        "fp": "",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Unsheathe",
+                                "description": "Unsheathe is a Skill in Elden Ring. Unsheathe is a regular skill that can be found in Ashes of War and applied to Katanas. Unsheathe also uses the Keen Affinity.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Nagakiba",
+                    "attack": {
+                        "Physical": "115",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "22"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Nagakiba is a Katana in Elden Ring. The Nagakiba scales primarily with Strength and Dexterity and is a good Weapon for dealing an extra blood loss effect on top of the initial Physical Damage this weapon causes.",
+                        "location": [
+                            "Dropped by Bloody Finger Hunter Yura to the north of Murkwater Cave or in his camp near Seaside Ruins Site of Grace."
+                        ],
+                        "fp": "",
+                        "weight": "7",
+                        "skill": [
+                            {
+                                "name": "Unsheathe",
+                                "description": "Unsheathe is a Skill in Elden Ring. Unsheathe is a regular skill that can be found in Ashes of War and applied to Katanas. Unsheathe also uses the Keen Affinity.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Serpentbone Blade",
+                    "attack": {
+                        "Physical": "120",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "45",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "22"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Serpentbone Blade is a Katana in Elden Ring. The Serpentbone Blade scales primarily with Dexterity and is a good Weapon for high Dexterity characters to engage in mid-range combat. It is capable of inflicting both Slash and Pierce attacks.",
+                        "location": [
+                            "Given as a reward for completing the second letter quest in Volcano Manor from Tanith. "
+                        ],
+                        "fp": "6",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Double Slash",
+                                "description": "Double Slash is a Skill in Elden Ring. Double Slash is a regular skill that can be applied with Ashes of War to swords and polearms capable of slashing (colossal weapons excepted). Double Slash has Keen Affinity.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Meteoric Ore Blade",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "72",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "50",
+                        "Magic": "45",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "15",
+                        "Dexterity": "14",
+                        "Intelligence": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Meteoric Ore Blade is a Katana in Elden Ring. The Meteoric Ore Blade scales primarily with Strength, Dexterity and Intelligence and is a good Weapon for dealing melee Slash and Pierce damage in combat. Its accompanying unique skill can also allow the user to thrust their weapon into the ground to create a gravity well to pull in enemies and damage them in the process.",
+                        "location": [
+                            "Caelid Waypoint Ruins: Found inside a chest in a small room at the back of an underground hall filled with sarcophagi and Lesser Kindred of Rot (Pests) enemies. The entrance to the area is found in the northwest section of the ruins."
+                        ],
+                        "fp": "13",
+                        "weight": "7.5",
+                        "skill": [
+                            {
+                                "name": "Gravitas",
+                                "description": "Gravitas is a Skill in Elden Ring. Gravitas is the default skill for the Meteoric Ore Blade and it can also be found in Ashes of War and applied to compatible weapons. Gravitas uses Magic Affinity and uses most melee weapons except for Whips and small weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Moonveil",
+                    "attack": {
+                        "Physical": "73",
+                        "Magic": "87",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "31",
+                        "Magic": "57",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "18",
+                        "Intelligence": "23"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Moonveil is a Katana in Elden Ring. The Moonveil scales primarily with Strength, Dexterity and Intelligence and is a good Weapon for dealing melee Slash and Pierce Damage in Combat. Its accompanying unique skill can also allow the user to draw the weapon at great speed for an instant slash attack and fires off a wave of light.",
+                        "location": [
+                            "Obtained upon defeating the Magma Wyrm located in Gael Tunnel - Caelid."
+                        ],
+                        "fp": "",
+                        "weight": "6.5",
+                        "skill": [
+                            {
+                                "name": "Transient Moonlight",
+                                "description": "Transient Moonlight is the unique Skill found on Moonveil, a Katana in Elden Ring. This skill allows the wielder of the Katana to assume a sheathed Iaido-style stance which is then followed up by two unique slashing attacks. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Rivers of Blood",
+                    "attack": {
+                        "Physical": "76",
+                        "Magic": "0",
+                        "Fire": "76",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "36",
+                        "Magic": "26",
+                        "Fire": "52",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Arcane": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "18",
+                        "Intelligence": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Rivers of Blood is a Katana in Elden Ring. The Rivers of Blood scales primarily with Strength, Dexterity, and Arcane and is a good Weapon for mid-range combat and it is capable of inflicting both Slash and Pierce attacks.",
+                        "location": [
+                            "Dropped by Bloody Finger Okina ",
+                            "Okina invades near the Church of Repose, found in the Eastern region of Mountaintops of the Giants."
+                        ],
+                        "fp": "17",
+                        "weight": "6.5",
+                        "skill": [
+                            {
+                                "name": "Corpse Piler",
+                                "description": "Corpse Piler is a Skill in Elden Ring. Corpse Piler is a special skill that is only available for the Rivers of Blood, and cannot be applied to other weapons via Ashes of War.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Dragonscale Blade",
+                    "attack": {
+                        "Physical": "110",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "35",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "50",
+                        "Holy": "25",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Dragonscale Blade is a Katana in Elden Ring. The Dragonscale Blade scales primarily with Dexterity, with reduced scaling in Strength, and is a good Weapon for dealing Slash and Pierce damage against Lightning-susceptible enemies.",
+                        "location": [
+                            "Drops from Dragonkin Soldier in the Lake of Rot."
+                        ],
+                        "fp": "25",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Ice Lightning Sword",
+                                "description": "Ice Lightning Sword is a Skill in Elden Ring. Ice Lightning Sword calls down a bolt of ice lightning that damages an enemy. It also leaves the blade with extra lightning damage and frostbite buildup for the next 45 seconds.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Hand of Malenia",
+                    "attack": {
+                        "Physical": "117",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "48"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Hand of Malenia is a Katana in Elden Ring. The Hand of Malenia scales primarily with Strength and Dexterity and is a good Weapon for Samurai Build and Bleed Builds.  ",
+                        "location": [
+                            "Can be drawn by Enia out of the Remembrance of the Rot Goddess at the Roundtable Hold, obtained after killing Malenia, Blade of Miquella."
+                        ],
+                        "fp": "12",
+                        "weight": "7",
+                        "skill": [
+                            {
+                                "name": "Waterfowl Dance",
+                                "description": "Waterfowl Dance is a Skill in Elden Ring. Waterfowl Dance is a Unique skill that is only available for the Hand of Malenia, and cannot be added to any other weapon by Ashes of War.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
+            "twinBlades": [
+                {
+                    "name": "Black Steel Twinblade",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "15",
+                        "Faith": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Black Steel Twinblade is a Twinblade in Elden Ring. It is a brand new Twinblade in the Shadow of the Erdtree DLC. The Black Steel Twinblade scales primarily with Strength and Dexterity and is a good Weapon for builds that want to maintain Faith Scaling despite changing its infusion. This weapon does Physical and Holy damage and comes with the Spinning Slash skill.",
+                        "location": [
+                            "Drops from the Black Knight located at the top of western camp in Scadu Altus (Northeast of Church of the Crusade)"
+                        ],
+                        "fp": "6",
+                        "weight": "8",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Euporia",
+                    "attack": {
+                        "Physical": "84",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "100",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "32",
+                        "Magic": "26",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "59",
+                        "Boost": "32"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "16",
+                        "Faith": "24"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Euporia is a Twinblade in Elden Ring. It is a brand new Twinblade in the Shadow of the Erdtree DLC. The Euporia scales primarily with Strength, Dexterity and Faith and is a good Weapon for Faith players looking for a twinblade. One of its unique features is its ability to powerup the weapon skill when attacking enemies.",
+                        "location": [
+                            "Belurat Tower Settlement "
+                        ],
+                        "fp": "28",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Euporia Vortex",
+                                "description": "Euporia Vortex is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Euporia Vortex is a skill that depends on the amount of luster restored to the blades. If much of it has been restored, this skill deals more damage.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Twinblade",
+                    "attack": {
+                        "Physical": "119",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "45",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Twinblade is the basic Twinblade weapon in Elden Ring. The Twinblade scales primarily with Strength and Dexterity is a good Weapon for melee users who want to perform fast slashes that spin in a larger area of effect.",
+                        "location": [
+                            "Is inside a chest, in the underground cellar, surrounded by four intact walls, just entering Dragon-Burnt Ruins. (Not the one with the rats. The one whose entrance is in the southeast building, which you can get inside using Torrent.)"
+                        ],
+                        "fp": "6",
+                        "weight": "7",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Twinned Knight Swords",
+                    "attack": {
+                        "Physical": "122",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Twinned Knight Swords is a Twinblade in Elden Ring. The Twinned Knight Swords scales primarily with Strength and Dexterity and is a good Weapon for dual-handed spinning attacks. ",
+                        "location": [
+                            "In a burning corpse pile in front of East Windmill Pasture in Altus Plateau. "
+                        ],
+                        "fp": "6",
+                        "weight": "8",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Godskin Peeler",
+                    "attack": {
+                        "Physical": "121",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "17",
+                        "Dexterity": "22"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Godskin Peeler is a Twinblade in Elden Ring. The Godskin Peeler scales primarily with Strength and Dexterity and is a good Weapon for melee users but requires a high dexterity character. ",
+                        "location": [
+                            "Dropped by Godskin Apostle at Windmill Village, Altus Plateau."
+                        ],
+                        "fp": "30",
+                        "weight": "8",
+                        "skill": [
+                            {
+                                "name": "Black Flame Tornado",
+                                "description": "Black Flame Tornado is a Skill in Elden Ring. Black Flame Tornado is a regular skill that can be used by equipping the Godskin Peeler twinblade weapon. It can also be applied to weapons using the Ash of War: Black Flame Tornado. Black Flame Tornado has Flame Art Affinity and is Usable on polearms and twinblades.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Gargoyle's Twinblade",
+                    "attack": {
+                        "Physical": "123",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "32",
+                        "Fire": "32",
+                        "Lightning": "32",
+                        "Holy": "32",
+                        "Boost": "32"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Gargoyle's Twinblade is a Twinblade in Elden Ring. The Gargoyle's Twinblade scales primarily with Strength and Dexterity and is a good Weapon for dealing melee damage with an extra reach. Users are able to deal piercing and standard damage that is complemented with Spinning Slash where the wielder of the weapon can perform a body spin that slashes foes within range.",
+                        "location": [
+                            "Dropped by Valiant Gargoyle (Twinblade) when both bosses are defeated. "
+                        ],
+                        "fp": "6",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Gargoyle's Black Blades",
+                    "attack": {
+                        "Physical": "81",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "97",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "32",
+                        "Magic": "26",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "59",
+                        "Boost": "32"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E",
+                        "Faith":"F"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "15",
+                        "Faith":"22"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Gargoyle's Black Blades is a Twinblade in Elden Ring. The Gargoyle's Black Blades scales primarily with Strength, Dexterity, and Faith and is a good Weapon for inflicting holy damage.",
+                        "location": [
+                            "Dropped by Black Blade Kindred at the Forbidden Lands just before Mountaintops of the Giants. "
+                        ],
+                        "fp": "6",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Slash",
+                                "description": "Spinning Slash is a Skill in Elden Ring. Spinning Slash is a regular skill that can be found in Ashes of War and applied to compatible weapons. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Eleonora's Poleblade",
+                    "attack": {
+                        "Physical":"72",
+                        "Magic": "0",
+                        "Fire": "72",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "33",
+                        "Magic": "23",
+                        "Fire": "47",
+                        "Lightning": "23",
+                        "Holy": "23",
+                        "Boost": "28"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Arcane":"D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "21",
+                        "Faith":"19"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Eleonora's Poleblade is a Twinblade in Elden Ring. The Eleonora's Poleblade scales primarily with Dexterity, and Arcane, and secondarily with Strength. The Weapon causes blood loss buildup, and has physical and fire damage. ",
+                        "location": [
+                            "Obtained by defeating Eleonora, Violet Bloody Finger, at the Second Church of Marika. "
+                        ],
+                        "fp": "11",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Bloodblade Dance",
+                                "description": "Bloodblade Dance is a Skill in Elden Ring. Bloodblade Dance is a unique skill that can be used on Eleonora's Poleblade. It allows the player to perform a flurry of tornado-like attacks while leaping into the air. Following up with an attack will perform an attack that ends in an evasive maneuver, perfect for getting that last hit before the enemy strikes again.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
             "Axes": [],
             "greatAxes": [],
             "hammers ": [],
