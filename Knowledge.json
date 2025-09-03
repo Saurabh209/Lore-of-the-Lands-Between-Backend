@@ -10118,7 +10118,156 @@
                     }
                 }
             ],
-            "greatAxes": [],
+            "greatAxes": [
+                {
+                    "name": "Putrescence Cleaver",
+                    "attack": {
+                        "Physical": "141",
+                        "Magic": "42",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "66",
+                        "Magic": "44",
+                        "Fire": "38",
+                        "Lightning": "38",
+                        "Holy": "38",
+                        "Boost": "46"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"E",
+                        "Arcane":"D"
+                    },
+                    "requiredStats": {
+                        "Strength": "28",
+                        "Dexterity": "10",
+                        "Intelligence":"15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Putrescence Cleaver is a Greataxe in Elden Ring. It is a brand new Greataxe in the Shadow of the Erdtree DLC. The Putrescence Cleaver scales primarily with Strength, Dexterity and Arcane and is a good Weapon for inflicting Frostbite. This weapon causes frost to build up which gains power from you arcane stat. It also comes with the Spinning Guillotine skill that lets you ground slam the blade, followed up by spinning slashes.",
+                        "location": [
+                            "Trade Remembrance of Putrescence with Enia at the Roundtable Hold to receive this item."
+                        ],
+                        "fp": "12",
+                        "weight": "13.5",
+                        "skill": [
+                            {
+                                "name": "Spinning Guillotine",
+                                "description": "Spinning Guillotine is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Spinning Guillotine performs a powerful overhead attack, that can be followed-up by additional ones for as long as stamina allows.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Death Knight's Longhaft Axe",
+                    "attack": {
+                        "Physical": "113",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "73",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "61",
+                        "Magic": "32",
+                        "Fire": "32",
+                        "Lightning": "46",
+                        "Holy": "32",
+                        "Boost": "43"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"E",
+                        "Faith":"D"
+                    },
+                    "requiredStats": {
+                        "Strength": "23",
+                        "Dexterity": "10",
+                        "Intelligence":"18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Death Knight's Longhaft Axe is a Greataxe in Elden Ring. It is a brand new Greataxe in the Shadow of the Erdtree DLC. The Death Knight's Longhaft Axe scales primarily with Strength, Dexterity and Faith and is a good Weapon for faith players looking for a great axe. This weapon deals both physical and lightning damage and comes with the Blinkbolt: Long-hafted Axe skill that transforms you into a bolt of lightning that rushes down to enemies and follows up with a heavy attack.",
+                        "location": [
+                            "The weapon is obtained as a reward for defeating the Death Knight boss located at the Scorpion River Catacombs."
+                        ],
+                        "fp": "8",
+                        "weight": "11.5",
+                        "skill": [
+                            {
+                                "name": "Blinkbolt: Long-hafted Axe",
+                                "description": "Blinkbolt: Long-hafted Axe is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Blinkbolt: Long-hafted Axe transforms the body of the user into a furious bolt of lightning that charges straight ahead.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                 {
+                    "name": "Bonny Butchering Knife",
+                    "attack": {
+                        "Physical": "134",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "58",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "37"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity":"D"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bonny Butchering Knife is a Greataxe in Elden Ring. It is a brand new Greataxe in the Shadow of the Erdtree DLC. The Bonny Butchering Knife scales primarily with Strength and Dexterity and is a good Weapon for players looking for a weapon that can restore a small amount of HP when dealing damage. ",
+                        "location": [
+                            "Bonny Butchering Knife is a Greataxe in Elden Ring. It is a brand new Greataxe in the Shadow of the Erdtree DLC. The Bonny Butchering Knife scales primarily with Strength and Dexterity and is a good Weapon for players looking for a weapon that can restore a small amount of HP when dealing damage. "
+                        ],
+                        "fp": "16",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Hone Blade",
+                                "description": "Hone Blade is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Hone Blade allows the blade to increase the amount of HP the weapon recovers and slightly increase its damage as well.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+            ],
             "hammers ": [],
             "flails ": [],
             "greatHammers": [],
