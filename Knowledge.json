@@ -9995,7 +9995,7 @@
                     "requiredStats": {
                         "Strength": "11",
                         "Dexterity": "11",
-                        "Arcane":"20"
+                        "Arcane": "20"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -10039,7 +10039,7 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"D"
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "19",
@@ -10087,13 +10087,13 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"E",
-                        "Intelligence":"D"
+                        "Dexterity": "E",
+                        "Intelligence": "D"
                     },
                     "requiredStats": {
                         "Strength": "18",
                         "Dexterity": "10",
-                        "Intelligence":"18"
+                        "Intelligence": "18"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -10139,13 +10139,13 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"E",
-                        "Arcane":"D"
+                        "Dexterity": "E",
+                        "Arcane": "D"
                     },
                     "requiredStats": {
                         "Strength": "28",
                         "Dexterity": "10",
-                        "Intelligence":"15"
+                        "Intelligence": "15"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -10189,13 +10189,13 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"E",
-                        "Faith":"D"
+                        "Dexterity": "E",
+                        "Faith": "D"
                     },
                     "requiredStats": {
                         "Strength": "23",
                         "Dexterity": "10",
-                        "Intelligence":"18"
+                        "Intelligence": "18"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -10219,7 +10219,7 @@
                         ]
                     }
                 },
-                 {
+                {
                     "name": "Bonny Butchering Knife",
                     "attack": {
                         "Physical": "134",
@@ -10239,7 +10239,7 @@
                     },
                     "scaling": {
                         "Strength": "C",
-                        "Dexterity":"D"
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "16",
@@ -10267,8 +10267,637 @@
                         ]
                     }
                 },
+                {
+                    "name": "Greataxe",
+                    "attack": {
+                        "Physical": "151",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "69",
+                        "Magic": "37",
+                        "Fire": "37",
+                        "Lightning": "37",
+                        "Holy": "37",
+                        "Boost": "45"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "30",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Greataxe is the standard Greataxe in Elden Ring. The Greataxe scales primarily with Strength and is a good Weapon for heavy hitting strength focused builds who want to deal devastating knockdown damage. ",
+                        "location": [
+                            "Inside the chest in the Carriage pulled by two Trolls and followed by a caravan of Wandering Nobles in Limgrave, west of Waypoint Ruins. "
+                        ],
+                        "fp": "16",
+                        "weight": "13",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Crescent Moon Axe",
+                    "attack": {
+                        "Physical": "147",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "25",
+                        "Dexterity": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Crescent Moon Axe is a Greataxe in Elden Ring. The Crescent Moon Axe scales primarily with Strength and Dexterity. ",
+                        "location": [
+                            "Users can get it in Stormveil Castle as drop from axe-wielding Exile Soldiers. "
+                        ],
+                        "fp": "16",
+                        "weight": "12.5",
+                        "skill": [
+                            {
+                                "name": "War Cry",
+                                "description": "War Cry is a Skill in Elden Ring. War Cry is a temporary attack boost to give players an extra advantage during combat. War Cry uses the Heavy Affinity and is compatible with all melee armaments except daggers, thrusting swords, and whips. It grants similar heavy attacks to Braggart's Roar and is a roar buff like Barbaric Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Longhaft Axe",
+                    "attack": {
+                        "Physical": "146",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "60",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "24",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Longhaft Axe is a Greataxe in Elden Ring. The Longhaft Axe scales primarily with Strength and is a good Weapon for players who want to wield a long axe. ",
+                        "location": [
+                            "Rare drop from Misbegotten wielding it."
+                        ],
+                        "fp": "16",
+                        "weight": "12.5",
+                        "skill": [
+                            {
+                                "name": "War Cry",
+                                "description": "War Cry is a Skill in Elden Ring. War Cry is a temporary attack boost to give players an extra advantage during combat. War Cry uses the Heavy Affinity and is compatible with all melee armaments except daggers, thrusting swords, and whips. It grants similar heavy attacks to Braggart's Roar and is a roar buff like Barbaric Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Executioner's Greataxe",
+                    "attack": {
+                        "Physical": "150",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "74",
+                        "Magic": "40",
+                        "Fire": "40",
+                        "Lightning": "40",
+                        "Holy": "40",
+                        "Boost": "48"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "34",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Executioner's Greataxe is a Greataxe in Elden Ring. The Executioner's Greataxe scales primarily with Strength and Dexterity. Its Skill, War Cry, grants the user the ability to temporarily increase attack power.  While active, strong attacks change to charging attacks.  ",
+                        "location": [
+                            "Can be dropped by Skeletons using this weapon."
+                        ],
+                        "fp": "16",
+                        "weight": "15",
+                        "skill": [
+                            {
+                                "name": "War Cry",
+                                "description": "War Cry is a Skill in Elden Ring. War Cry is a temporary attack boost to give players an extra advantage during combat. War Cry uses the Heavy Affinity and is compatible with all melee armaments except daggers, thrusting swords, and whips. It grants similar heavy attacks to Braggart's Roar and is a roar buff like Barbaric Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Great Omenkiller Cleaver",
+                    "attack": {
+                        "Physical": "142",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "115"
+                    },
+                    "guard": {
+                        "Physical": "63",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "45",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "23",
+                        "Dexterity": "12"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Great Omenkiller Cleaver is a Greataxe in Elden Ring. The Great Omenkiller Cleaver scales with Strength and Dexterity, and is a good Weapon for a quality build. It is the only weapon in it's class with inate blood loss buildup, which can further benefit from Affinities that add Arcane scaling.    ",
+                        "location": [
+                            "CDropped by Omenkiller at Volcano Manor.",
+                            "Dropped by Omenkiller boss at Perfumer's Grotto"
+                        ],
+                        "fp": "2 (per swing)",
+                        "weight": "11",
+                        "skill": [
+                            {
+                                "name": "Wild Strikes",
+                                "description": "Wild Strikes is a Skill in Elden Ring. Wild Strikes is a damaging skill which temporarily allows wild swinging, affecting foes within range. Updated to Patch 1.07. Wild Strikes has heavy affinity and it uses axes, hammers, curved swords and greatswords. Excluding Colossal Weapons",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Rusted Anchor",
+                    "attack": {
+                        "Physical": "147",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "26",
+                        "Dexterity": "9"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Rusted Anchor is a Greataxe in Elden Ring. The Rusted Anchor scales primarily with Strength and Dexterity and is a good Weapon for dealing great damage, but also requires great strength to wield. Its accompanying skill, Barbaric Roar, also allows the user to gain an increase in attack power.",
+                        "location": [
+                            "Drops from the Scaly Misbegotten boss in Morne Tunnel."
+                        ],
+                        "fp": "16",
+                        "weight": "12.5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Butchering Knife",
+                    "attack": {
+                        "Physical": "134",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "58",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "37"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Butchering Knife is a Greataxe in Elden Ring. The Butchering Knife scales primarily with Strength and Dexterity and is a good Weapon for characters with high Dexterity builds. Its skill allows users to increase their attack power and execute strong combo attacks.",
+                        "location": [
+                            "Dropped by Anastasia, Tarnished-Eater."
+                        ],
+                        "fp": "16",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Gargoyle's Great Axe",
+                    "attack": {
+                        "Physical": "123",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "58",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "37"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "24",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Gargoyle's Great Axe is a Greataxe in Elden Ring. The Gargoyle's Great Axe scales well with Strength and decent with Dexterity, and has the weapon skill War Cry to further increase the damage output. It is a good Weapon for players who have the Strength to wield it. ",
+                        "location": [
+                            "Killing the Valiant Gargoyle in the Capital Outskirts, Altus Plateau. From the Outer Wall Phantom Tree site of grace, go northeast along the slope/long stairs up until it spawns."
+                        ],
+                        "fp": "16",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "War Cry",
+                                "description": "War Cry is a Skill in Elden Ring. War Cry is a temporary attack boost to give players an extra advantage during combat. War Cry uses the Heavy Affinity and is compatible with all melee armaments except daggers, thrusting swords, and whips. It grants similar heavy attacks to Braggart's Roar and is a roar buff like Barbaric Roar. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Gargoyle's Black Axe",
+                    "attack": {
+                        "Physical": "100",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "120",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "27",
+                        "Fire": "27",
+                        "Lightning": "27",
+                        "Holy": "54",
+                        "Boost": "37"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "24",
+                        "Dexterity": "8",
+                        "Faith": "22"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Gargoyle's Black Axe is a Greataxe in Elden Ring. The Gargoyle's Black Axe scales primarily with Strength, Dexterity, and Faith and is a good Weapon for heavy attacks that deal holy damage. ",
+                        "location": [
+                            "Dropped by Black Blade Kindred at the Mountaintops of the Giants."
+                        ],
+                        "fp": "16",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "War Cry",
+                                "description": "War Cry is a Skill in Elden Ring. War Cry is a temporary attack boost to give players an extra advantage during combat. War Cry uses the Heavy Affinity and is compatible with all melee armaments except daggers, thrusting swords, and whips. It grants similar heavy attacks to Braggart's Roar and is a roar buff like Barbaric Roar. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Winged Greathorn",
+                    "attack": {
+                        "Physical": "130",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "65",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "35",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "30",
+                        "Dexterity": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Winged Greathorn is a Greataxe in Elden Ring. The Winged Greathorn scales primarily with Strength and Dexterity and is a good Weapon for inflicting Damage upon foes and temporarily reduce their defense. Its unique Skill, Soul Stifler grants the user the ability to raise the greathorn's wings to summon a soul-sapping miasma. ",
+                        "location": [
+                            "Obtained when unlocking the Remembrance of the Regal Ancestor's power by handing it over to Enia at Roundtable Hold."
+                        ],
+                        "fp": "12",
+                        "weight": "11",
+                        "skill": [
+                            {
+                                "name": "Soul Stifler",
+                                "description": "Soul Stifler is a Skill in Elden Ring. Soul Stifler is a unique skill on the Winged Greathorn that can temporarily increase the damage against enemies within its area of effect.  ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Axe of Godrick",
+                    "attack": {
+                        "Physical": "142",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "65",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "35",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "34",
+                        "Dexterity": "22"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Axe of Godrick is a Greataxe in Elden Ring. The Axe of Godrick scales primarily with Strength and Dexterity, and is a good Weapon for melee characters that prefer slow, but powerful attacks.  ",
+                        "location": [
+                            "Trade Remembrance of the Grafted with Enia at Roundtable Hold."
+                        ],
+                        "fp": "15",
+                        "weight": "11",
+                        "skill": [
+                            {
+                                "name": "I Command Thee, Kneel!",
+                                "description": "I Command Thee, Kneel! is a Skill in Elden Ring. I Command Thee, Kneel! is an exclusive Skill to the Axe of Godrick that causes shockwaves on the ground.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
             ],
-            "hammers ": [],
+            "hammers ": [
+                {
+                    "name": "Flowerstone Gavel",
+                    "attack": {
+                        "Physical": "121",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Arcane": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "8",
+                        "Intelligence": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Flowerstone Gavel is a Hammer in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Flowerstone Gavel scales primarily with Strength, Dexterity and Arcane and can be obtained from completing the Dragon Communion Priestess questline. ",
+                        "location": [
+                            "The Dragon Communion Priestess drops this item at the Grand Altar of Dragon Communion after defeating Bayle The Dread and not giving her Thiollier's Concoction beforehand"
+                        ],
+                        "fp": "18",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Flower Dragonbolt",
+                                "description": "Flower Dragonbolt is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Flower Dragonbolt calls down the powerful red lightning employed by ancient dragons to strike a target, dealing Lightning Damage and temporarily reducing its lightning damage negation.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Club",
+                    "attack": {
+                        "Physical": "103",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "41",
+                        "Magic": "27",
+                        "Fire": "27",
+                        "Lightning": "27",
+                        "Holy": "27",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Club is a Hammer in Elden Ring. The Club scales with Strength and is a good Weapon for melee users who don't invest many points into Strength. Club is a very basic bludgeoning type of weapon. It's only recommended to use for beginners when they must defeat an enemy that is weak against Strike Damage",
+                        "location": [
+                            "Default starting equipment for the Wretch ",
+                            "Can be bought from the Nomadic Merchant"
+                        ],
+                        "fp": "16",
+                        "weight": "3.5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
             "flails ": [],
             "greatHammers": [],
             "colossalWeapons": [],
