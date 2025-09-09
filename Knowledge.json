@@ -10896,7 +10896,55 @@
                             "It contain gameplay video with this with this weapon"
                         ]
                     }
-                }
+                },
+                {
+                    "name": "Curved Club",
+                    "attack": {
+                        "Physical": "114",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "45",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity":"E"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity":"7"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Curved Club is a Hammer in Elden Ring. The Curved Club scales primarily with Strength and Dexterity and is a Weapon wielded by some Albinaurics. ",
+                        "location": [
+                            "This weapon can be looted from the club and shield Albinaurics found at Academy Gate Town grace."
+                        ],
+                        "fp": "16",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
             ],
             "flails ": [],
             "greatHammers": [],
