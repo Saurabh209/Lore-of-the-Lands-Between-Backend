@@ -10917,11 +10917,11 @@
                     },
                     "scaling": {
                         "Strength": "C",
-                        "Dexterity":"E"
+                        "Dexterity": "E"
                     },
                     "requiredStats": {
                         "Strength": "11",
-                        "Dexterity":"7"
+                        "Dexterity": "7"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -10945,9 +10945,1719 @@
                         ]
                     }
                 },
+                {
+                    "name": "Spiked Club",
+                    "attack": {
+                        "Physical": "114",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "45",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "7"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Spiked Club is a Hammer in Elden Ring. The Spiked Club scales primarily with Strength and Dexterity and is a good Weapon for melee ranged combat. This weapon comes with an addition blood loss effect and a Skill to add to its basic stats to allow players to gain a temporary attack power stat boost,",
+                        "location": [
+                            "Drops from large Demi-Humans that wield it",
+                            "Can be farmed from the large Demi-Human right outside the entrance of Volcano Cave.",
+                            "Also drops from the large Demi-Human just below the ledge at the beginning of Coastal Cave."
+                        ],
+                        "fp": "16",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Stone Club",
+                    "attack": {
+                        "Physical": "122",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "52",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "35",
+                        "Boost": "36"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Stone Club is a Hammer in Elden Ring. The Stone Club scales primarily with Strength and Dexterity and is a good Weapon for strength build characters. ",
+                        "location": [
+                            "Chance of being dropped by the Battlemages",
+                            "One in the graveyard in front of Sellia Hideaway.",
+                            "One before the Fog wall in Academy Crystal Cave."
+                        ],
+                        "fp": "",
+                        "weight": "7",
+                        "skill": [
+                            {
+                                "name": "Kick",
+                                "description": "Kick is a Skill in Elden Ring. Kick is a skill that can be equipped with a weapon and can push back enemies during combat",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Mace",
+                    "attack": {
+                        "Physical": "115",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "45",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "7"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Stone Club is a Hammer in Elden Ring. The Stone Club scales primarily with Strength and Dexterity and is a good Weapon for strength build characters. ",
+                        "location": [
+                            "Chance of being dropped by the Battlemages",
+                            "One in the graveyard in front of Sellia Hideaway.",
+                            "One before the Fog wall in Academy Crystal Cave."
+                        ],
+                        "fp": "",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Kick",
+                                "description": "Kick is a Skill in Elden Ring. Kick is a skill that can be equipped with a weapon and can push back enemies during combat",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Morning Star",
+                    "attack": {
+                        "Physical": "118",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "47",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "31",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Morning Star is a Hammer in Elden Ring. The Morning Star scales primarily with Strength and Dexterity and is a good Weapon for bludgeoning enemies and dealing high damage and blood loss effects. ",
+                        "location": [
+                            "Weeping Peninsula: Found in a chest inside a broken Carriage just a bit south of the bridge from Limgrave."
+                        ],
+                        "fp": "",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Kick",
+                                "description": "Kick is a Skill in Elden Ring. Kick is a skill that can be equipped with a weapon and can push back enemies during combat",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Warpick",
+                    "attack": {
+                        "Physical": "108",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "27",
+                        "Fire": "27",
+                        "Lightning": "27",
+                        "Holy": "27",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "11",
+                        "Dexterity": "9"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Morning Star is a Hammer in Elden Ring. The Morning Star scales primarily with Strength and Dexterity and is a good Weapon for bludgeoning enemies and dealing high damage and blood loss effects. ",
+                        "location": [
+                            "Warpick is a Hammer in Elden Ring. The Warpick scales primarily with Dexterity and Strength and is a good Weapon for breaking an enemy's guard or stance to open up another opportunity to attack."
+                        ],
+                        "fp": "",
+                        "weight": "2.5",
+                        "skill": [
+                            {
+                                "name": "Kick",
+                                "description": "Kick is a Skill in Elden Ring. Kick is a skill that can be equipped with a weapon and can push back enemies during combat",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Hammer",
+                    "attack": {
+                        "Physical": "124",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "51",
+                        "Magic": "34",
+                        "Fire": "34",
+                        "Lightning": "34",
+                        "Holy": "34",
+                        "Boost": "36"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "7"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Hammer is a Hammer in Elden Ring. The Hammer scales primarily with Strength and Dexterity. It is a good Weapon for dealing strike damag",
+                        "location": [
+                            "Found in Leyndell, Royal Capital, in the Fortified Manor. Beside the Sanctified Whetblade. "
+                        ],
+                        "fp": "",
+                        "weight": "6.5",
+                        "skill": [
+                            {
+                                "name": "Kick",
+                                "description": "Kick is a Skill in Elden Ring. Kick is a skill that can be equipped with a weapon and can push back enemies during combat",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Monk's Flamemace",
+                    "attack": {
+                        "Physical": "126",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "13",
+                        "Dexterity": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Monk's Flamemace is a Hammer in Elden Ring. The Monk's Flamemace scales primarily with Strength and Dexterity and is a good Weapon for pushing enemies back using this weapons skill, Kick.  Kick enemies back and break their stance with the Skill attached to this weapon.",
+                        "location": [
+                            "Drops from Monk enemies wielding it in Liurnia of the Lakes and Mountaintops of the Giants."
+                        ],
+                        "fp": "",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Kick",
+                                "description": "Kick is a Skill in Elden Ring. Kick is a skill that can be equipped with a weapon and can push back enemies during combat",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Varré's Bouquet",
+                    "attack": {
+                        "Physical": "46",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "38",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "25",
+                        "Boost": "25"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Arcane": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "8",
+                        "Dexterity": "16",
+                        "Arcane": "24"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Varré's Bouquet is a Hammer in Elden Ring. The Varré's Bouquet scales primarily with Strength, Dexterity and Arcane and is a good Weapon for blood loss buildup. ",
+                        "location": [
+                            "Found at the Mohgwyn Dynasty Mausoleum, right before the Dynasty Mausoleum Midpoint site of grace. It is received from White Mask Varré after invading him and depleting his dialogue."
+                        ],
+                        "fp": "14",
+                        "weight": "2",
+                        "skill": [
+                            {
+                                "name": "Blood Tax",
+                                "description": "Blood Tax is a Skill in Elden Ring. Blood Tax is a regular skill that can be found in Ashes of War, this can be used on armaments capable of thrusting",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Envoy's Horn",
+                    "attack": {
+                        "Physical": "96",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "62",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "38",
+                        "Magic": "26",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "38",
+                        "Boost": "28"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "12",
+                        "Faith": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Envoy's Horn is a Hammer in Elden Ring. The Envoy's Horn scales primarily with Faith, Dexterity, and Strength.",
+                        "location": [
+                            "Can be farmed in Leyndell, Royal Capital. They are easily found in the East Capital Rampart area upon first entering the city."
+                        ],
+                        "fp": "6",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Oracular Bubble",
+                                "description": "Oracular Bubble is a Skill in Elden Ring. Oracular Bubble is a skill unique to the Envoy's Horn that allows the player to release magic bubbles from blowing on the horn.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Nox Flowing Hammer",
+                    "attack": {
+                        "Physical": "122",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "51",
+                        "Magic": "34",
+                        "Fire": "34",
+                        "Lightning": "34",
+                        "Holy": "34",
+                        "Boost": "34"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "17",
+                        "Dexterity": "7"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Nox Flowing Hammer is a Hammer in Elden Ring. The Nox Flowing Hammer scales primarily with Strength and Dexterity and is a good Weapon for breaking through guards and stances. This weapon is ideal for delivering powerful strikes against enemies with a strong guard.",
+                        "location": [
+                            "From the Night Sacred Ground Site of Grace in Nokron"
+                        ],
+                        "fp": "16",
+                        "weight": "6.5",
+                        "skill": [
+                            {
+                                "name": "Flowing Form (Nox Flowing Hammer)",
+                                "description": "Flowing Form is a Skill in Elden Ring. Flowing Form is a skill that allows the hammer to behave like a whip.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ringed Finger",
+                    "attack": {
+                        "Physical": "121",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "38",
+                        "Magic": "26",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "38",
+                        "Boost": "28"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "15",
+                        "Dexterity": "9"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Ringed Finger is a Hammer in Elden Ring. The Ringed Finger scales primarily with Strength and Dexterity and is a good Weapon for breaking through guards and stances. This weapon is ideal for delivering powerful strikes against enemies with a strong guard.",
+                        "location": [
+                            "Gelmir Hero's Grave: From the first Chariot hallway, head all the way down, as the path ends you will need to continue down across the lava and turn left at the end of the path to find a room with a chest containing the weapon."
+                        ],
+                        "fp": "14",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Claw Flick",
+                                "description": "Claw Flick is a Skill in Elden Ring. Claw Flick is a unique skill that can be used on the Ringed Finger. It allows the player to cause the weapon's finger to swell then flick enemies away.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Scepter of the All-Knowing",
+                    "attack": {
+                        "Physical": "99",
+                        "Magic": "64",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "36",
+                        "Magic": "36",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "35",
+                        "Boost": "27"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "18",
+                        "Intelligence": "21"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Scepter of the All-Knowing is a Hammer in Elden Ring. The Scepter of the All-Knowing scales primarily with Strength, Dexterity, Intelligence and is a good Weapon for heavy attacks. ",
+                        "location": [
+                            "Dropped by Sir Gideon Ofnir, the All-Knowing upon defeat. Sir Gideon is encountered as a boss in Leyndell, Ashen Capital, an alternate version of the Royal Capital accessible only after making significant progress in the story. "
+                        ],
+                        "fp": "35",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Knowledge Above All",
+                                "description": "Knowledge Above All is a Skill in Elden Ring. Knowledge Above All creates a fixed area of effect that reduces magic and holy damage negation.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Marika's Hammer",
+                    "attack": {
+                        "Physical": "101",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "44",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "44",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity": "12",
+                        "Faith": "19"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Marika's Hammer is a Hammer in Elden Ring. The Marika's Hammer scales primarily with Strength and Faith and is a good Weapon for heavy attacks that deal holy damage. ",
+                        "location": [
+                            "Trade Elden Remembrance with Enia at Roundtable Hold."
+                        ],
+                        "fp": "26",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Gold Breaker",
+                                "description": "Gold Breaker is a Skill in Elden Ring. Gold Breaker is an exclusive Skill to Marika's Hammer. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
             ],
-            "flails ": [],
-            "greatHammers": [],
+            "flails ": [
+                {
+                    "name": "Serpent Flail",
+                    "attack": {
+                        "Physical": "77",
+                        "Magic": "0",
+                        "Fire": "92",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "34",
+                        "Magic": "25",
+                        "Fire": "50",
+                        "Lightning": "24",
+                        "Holy": "25",
+                        "Boost": "21"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "24",
+                        "Faith": "21"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Serpent Flail is a Flail in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Serpent Flail scales primarily with Strength, Dexterity, and Faith and is a good Weapon for dealing highs amounts of Fire Damage for a cheap cost and for Faith builds.",
+                        "location": [
+                            "Fog Rift Fort: Head down using the ladder past the first tower, and defeat the enemies. Beware of the flamethrowers. Use spells or arrows if you have them. Reach the end of the area to find a chest that contains this item."
+                        ],
+                        "fp": "8",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Flare, O Serpent",
+                                "description": "Flare, O Serpent is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Flare, O Serpent ignites a flame inside the snakes, empowering flame attacks. After this, strong attacks and other attacks that strike the ground will cause an explosion.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Flail",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "36",
+                        "Magic": "24",
+                        "Fire": "24",
+                        "Lightning": "24",
+                        "Holy": "24",
+                        "Boost": "20"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "18" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Flail is a basic Flail in Elden Ring. The Flail scales primarily with Strength and Dexterity and is a good Weapon for extra blood loss causing effects that cannot be parried by enemies during combat. ",
+                        "location": [
+                            "It can be found in a chest in the back of the eastern Carriage, defended by a group of soldiers, near the Gatefront Ruins."
+                        ],
+                        "fp": "8",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Spinning Chain",
+                                "description": "Spinning Chain is a Skill in Elden Ring. Spinning Chain is a skill specific to the Flail that optimizes damage by spinning the weapon before delivering a bludgeoning blow.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Nightrider Flail",
+                    "attack": {
+                        "Physical": "115",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "37",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "25",
+                        "Boost": "21"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "24" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Nightrider Flail is a Flail in Elden Ring. The Nightrider Flail scales primarily with Strength and Dexterity and is a good Weapon for inducing blood loss to victims and bludgeoning foes with its triple spiked heads. This will require players to have raised their Dexterity a significant amount before this weapon can be wielded. ",
+                        "location": [
+                            "Dropped by Night's Cavalry at Weeping Peninsula."
+                        ],
+                        "fp": "8",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Spinning Chain",
+                                "description": "Spinning Chain is a Skill in Elden Ring. Spinning Chain is a skill specific to the Flail that optimizes damage by spinning the weapon before delivering a bludgeoning blow.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Chainlink Flail",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "43",
+                        "Magic": "28",
+                        "Fire": "28",
+                        "Lightning": "28",
+                        "Holy": "28",
+                        "Boost": "24"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "12" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Chainlink Flail is a Flail in Elden Ring. The Chainlink Flail scales primarily with Strength and Dexterity. It causes blood loss. Like other flails, it cannot be parried in combat.",
+                        "location": [
+                            "Chance to drop from Lesser Mad Pumpkin Heads wielding this weapon"
+                        ],
+                        "fp": "8",
+                        "weight": "8",
+                        "skill": [
+                            {
+                                "name": "Spinning Chain",
+                                "description": "Spinning Chain is a Skill in Elden Ring. Spinning Chain is a skill specific to the Flail that optimizes damage by spinning the weapon before delivering a bludgeoning blow.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Family Heads",
+                    "attack": {
+                        "Physical": "90",
+                        "Magic": "58",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "37",
+                        "Magic": "36",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "20"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C",
+                        "Intelligence":"E"
+                    },
+                    "requiredStats": {
+                        "Strength": "8",
+                        "Dexterity": "18" ,
+                        "Intelligence":"16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Family Heads is a Flail in Elden Ring. The Family Heads scales primarily with Dexterity, Strength, and Intelligence. It features a strong mix of Physical and Magic damage.",
+                        "location": [
+                            "Altus Plateau: Dropped by Necromancer Garris at Sage's Cave. "
+                        ],
+                        "fp": "25",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Familial Rancor",
+                                "description": "Familial Rancor is a Skill in Elden Ring. Familial Rancor is a unique skill that can be used on the Family Heads. It allows the player to summon the vengeful spirits of the weapon and starts chasing down enemies.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Bastard's Stars",
+                    "attack": {
+                        "Physical": "68",
+                        "Magic": "81",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "32",
+                        "Magic": "48",
+                        "Fire": "24",
+                        "Lightning": "24",
+                        "Holy": "24",
+                        "Boost": "20"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence":"C"
+                    },
+                    "requiredStats": {
+                        "Strength": "8",
+                        "Dexterity": "22" ,
+                        "Intelligence":"22"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bastard's Stars is a Flail in Elden Ring. The Bastard's Stars scales primarily with Strength, Dexterity, and Intelligence. It is a good Weapon for Intelligence-based builds. ",
+                        "location": [
+                            "Bastard's Stars can be obtained by giving Remembrance of the Naturalborn to Enia at Roundtable Hold."
+                        ],
+                        "fp": "25",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Nebula ",
+                                "description": "Nebula is a Skill in Elden Ring. Nebula leaves a powerful dark cloud that explode after a short while. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                } 
+            ],
+            "greatHammers": [
+                {
+                    "name": "Black Steel Greathammer",
+                    "attack": {
+                        "Physical": "140",
+                        "Magic": "81",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "42",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "72",
+                        "Magic": "38",
+                        "Fire": "38",
+                        "Lightning": "38",
+                        "Holy": "45",
+                        "Boost": "47"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E",
+                        "Faith":"D"
+                    },
+                    "requiredStats": {
+                        "Strength": "25",
+                        "Dexterity": "11" ,
+                        "Faith":"17"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Black Steel Greathammer is a Great Hammer in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Black Steel Greathammer scales primarily with Strength, Dexterity and Faith and is a good Weapon for Faith builds that are looking for a massive weapon that also scales with Strength and Dexterity.",
+                        "location": [
+                            "Guaranteed drop from the Black Knight found at the Church of Consolation."
+                        ],
+                        "fp": "9",
+                        "weight": "12",
+                        "skill": [
+                            {
+                                "name": "Endure ",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Smithscript Greathammer",
+                    "attack": {
+                        "Physical": "141",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "42",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "65",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "35",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E",
+                        "Intelligence":"E",
+                        "Faith":"D"
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity": "10",
+                        "Intelligence":"11",
+                        "Faith":"11"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Smithscript Greathammer is a Great Hammer in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Smithscript Greathammer scales primarily with Strength, Dexterity, Intelligence and Faith and is a good Weapon for players looking for a heavy ranged melee alternative without a FP cost. As a Smithscript weapon, it can be thrown and immediately returns to the user's hand.",
+                        "location": [
+                            "Taylew's Ruined Forge: Use the giant platform in the middle to jump to the other side. Once there, keep moving forward and on the left side there will be a fire blob enemy protecting the item. Defeat the enemy and loot the corpse behind it to obtain the weapon."
+                        ],
+                        "fp": "9",
+                        "weight": "9",
+                        "skill": [
+                            {
+                                "name": "Endure ",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Large Club",
+                    "attack": {
+                        "Physical": "131",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "60",
+                        "Magic": "32",
+                        "Fire": "32",
+                        "Lightning": "32",
+                        "Holy": "32",
+                        "Boost": "38"
+                    },
+                    "scaling": {
+                        "Strength": "C" 
+                    },
+                    "requiredStats": {
+                        "Strength": "22" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Large Club is a Great Hammer (Warhammer) in Elden Ring. The Large Club scales primarily with Strength and is a good Weapon for high strength players who can hold this weapon's weight. The weight is worth the ability to crush enemy armor, sometimes along with the enemy itself. ",
+                        "location": [
+                            "On a corpse guarded by Demi-Humans south of the Forlorn Hound Evergaol, west-northwest of the nearby spiritspring."
+                        ],
+                        "fp": "16",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar ",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Curved Great Club",
+                    "attack": {
+                        "Physical": "145",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "42",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D" 
+                    },
+                    "requiredStats": {
+                        "Strength": "24",
+                        "Dexterity": "10" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Curved Great Club is a Great Hammer (Warhammer) in Elden Ring. The Curved Great Club scales primarily with Strength and Dexterity and is a good Weapon for high strength players who can hold this weapon's weight.",
+                        "location": [
+                            "This weapon can be looted from the larger of the Second-Generation Albinaurics found across Liurnia of the Lakes (the gray frog like creatures). There are a number of them located around the Temple Quarter making it an easy spot to farm."
+                        ],
+                        "fp": "16",
+                        "weight": "10",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar ",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Great Mace",
+                    "attack": {
+                        "Physical": "134",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "42",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "71",
+                        "Magic": "38",
+                        "Fire": "38",
+                        "Lightning": "38",
+                        "Holy": "38",
+                        "Boost": "38"
+                    },
+                    "scaling": {
+                        "Strength": "C" 
+                    },
+                    "requiredStats": {
+                        "Strength": "28" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Great Mace is a Great Hammer (Warhammer) in Elden Ring. The Great Mace scales primarily with Strength and is a good Weapon for high strength players who can hold this weapon's weight. The weight is worth the ability to crush enemy armor, sometimes along with the enemy itself.",
+                        "location": [
+                            "Inside a chest located in the camp with several trebuchets, southwest of the Grand Lift of Dectus. "
+                        ],
+                        "fp": "9",
+                        "weight": "11.5",
+                        "skill": [
+                            {
+                                "name": "Endure ",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Pickaxe",
+                    "attack": {
+                        "Physical": "144",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "42",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"D" 
+                    },
+                    "requiredStats": {
+                        "Strength": "22",
+                        "Dexterity":"10"  
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Pickaxe is a Great Hammer (Warhammer) in Elden Ring. The Pickaxe scales primarily with Strength and Dexterity and is a good Weapon for high strength players who can hold this weapon's weight. The weight is worth the ability to crush enemy armor, sometimes along with the enemy itself.",
+                        "location": [
+                            "Dropped by Miners"
+                        ],
+                        "fp": "9",
+                        "weight": "10",
+                        "skill": [
+                            {
+                                "name": "Endure ",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Brick Hammer",
+                    "attack": {
+                        "Physical": "122",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "42",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "74",
+                        "Magic": "40",
+                        "Fire": "40",
+                        "Lightning": "40",
+                        "Holy": "40",
+                        "Boost": "48"
+                    },
+                    "scaling": {
+                        "Strength": "B"  
+                    },
+                    "requiredStats": {
+                        "Strength": "31" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Brick Hammer is a Great Hammer (Warhammer) in Elden Ring. The Brick Hammer scales primarily with Strength and is a good Weapon for high strength players who can hold this weapon's weight. The weight is worth the ability to crush enemy armor, sometimes along with the enemy itself. ",
+                        "location": [
+                            "Located at Stormveil Castle."
+                        ],
+                        "fp": "16",
+                        "weight": "12.5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar ",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Battle Hammer",
+                    "attack": {
+                        "Physical": "131",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity":"E"  
+                    },
+                    "requiredStats": {
+                        "Strength": "26",
+                        "Dexterity":"8" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Battle Hammer is a Great Hammer (Warhammer) in Elden Ring. The Battle Hammer scales primarily with Dexterity and Strength and is a good Weapon for high strength players who can hold this weapon's weight. The weight is worth the ability to crush enemy armor, sometimes along with the enemy itself.",
+                        "location": [
+                            "Dropped randomly by hammer-wielding Duelists near the colosseum in Leyndell Royal Capital, accessible from the West Capital Rampart site of grace. "
+                        ],
+                        "fp": "16",
+                        "weight": "10",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar ",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Rotten Battle Hammer",
+                    "attack": {
+                        "Physical": "126",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity":"E"  
+                    },
+                    "requiredStats": {
+                        "Strength": "26",
+                        "Dexterity":"8" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Rotten Battle Hammer is a Great Hammer (Warhammer) in Elden Ring. The Rotten Battle Hammer scales primarily with Dexterity and Strength and is a good Weapon for high strength players who can hold this weapon's weight. The weight is worth the ability to crush enemy armor, sometimes along with the enemy itself. ",
+                        "location": [
+                            "Guaranteed drop from a Rotten Duelist enemy in the stone coffins northwest of the Consecrated Snowfield Site of Grace."
+                        ],
+                        "fp": "16",
+                        "weight": "10",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar ",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Celebrant's Skull",
+                    "attack": {
+                        "Physical": "138",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "34",
+                        "Fire": "34",
+                        "Lightning": "34",
+                        "Holy": "34",
+                        "Boost": "40"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"D"  
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity":"12" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Celebrant's Skull is a Great Hammer (Warhammer) in Elden Ring. The Celebrant's Skull scales primarily with Strength and Dexterity and is a good Weapon for high strength players who can hold this weapon's weight. ",
+                        "location": [
+                            "Altus Plateau: On a corpse sitting at the end of a somewhat hidden path along the cliff, accessible by passing the windmill directly north of the Windmill Village site of grace. "
+                        ],
+                        "fp": "16",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar ",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Great Stars",
+                    "attack": {
+                        "Physical": "135",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "68",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"D"  
+                    },
+                    "requiredStats": {
+                        "Strength": "22",
+                        "Dexterity":"12" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Great Stars is a Great Hammer in Elden Ring. Great Stars scales primarily with Strength and Dexterity, and is a good Weapon for high-strength characters who can hold this weapon's weight. The weapon is able to destroy enemy armor, sometimes along with the enemy itself. ",
+                        "location": [
+                            "On a guarded Carriage being towed by two Trolls in Altus Plateau, travelling on the road southwest of the Road of Iniquity Side Path Site of Grace"
+                        ],
+                        "fp": "9",
+                        "weight": "10",
+                        "skill": [
+                            {
+                                "name": "Endure",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Greathorn Hammer",
+                    "attack": {
+                        "Physical": "134",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "65",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "35",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"D"  
+                    },
+                    "requiredStats": {
+                        "Strength": "22",
+                        "Dexterity":"10" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Greathorn Hammer is a Great Hammer (Warhammer) in Elden Ring. The Greathorn Hammer scales primarily with Strength and Dexterity and is a good Weapon for  high strength players who can hold this weapon's weight. The weight is worth the ability to crush enemy armor, sometimes along with the enemy itself.  ",
+                        "location": [
+                            "Dropped by Ancestral Follower located in Siofra River."
+                        ],
+                        "fp": "16",
+                        "weight": "10",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Envoy's Long Horn",
+                    "attack": {
+                        "Physical": "120",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "78",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "58",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "42",
+                        "Boost": "39"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"D",
+                        "Faith":"C"  
+                    },
+                    "requiredStats": {
+                        "Strength": "23",
+                        "Dexterity":"11",
+                        "Faith":"18" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Envoy's Long Horn is a Great Hammer (Warhammer) in Elden Ring. The Envoy's Long Horn scales primarily with Strength, Faith, and Dexterity. Despite being an instrument it is primarily used to bludgeon foes, and with exception to its unique skill Bubble Shower, it has long reach for its class.",
+                        "location": [
+                            "This weapon can be dropped by the Large Oracle Envoy located early on in the East Capital Rampart in Leyndell, Royal Capital."
+                        ],
+                        "fp": "16",
+                        "weight": "9.5",
+                        "skill": [
+                            {
+                                "name": "Bubble Shower",
+                                "description": "Bubble Shower is a Skill in Elden Ring. Bubble Shower is a skill unique to the Envoy's Long Horn that allows the player to release a spume of magic bubbles upon blowing the weapon.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Cranial Vessel Candlestand",
+                    "attack": {
+                        "Physical": "98",
+                        "Magic": "0",
+                        "Fire": "98",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "71",
+                        "Magic": "37",
+                        "Fire": "51",
+                        "Lightning": "37",
+                        "Holy": "37",
+                        "Boost": "48"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"E",
+                        "Faith":"D"  
+                    },
+                    "requiredStats": {
+                        "Strength": "26",
+                        "Dexterity":"8",
+                        "Faith":"22" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Cranial Vessel Candlestand is a Great Hammer (Warhammer) in Elden Ring. The Cranial Vessel Candlestand scales primarily with Strength and Faith, with reduced scaling in Dexterity. It is a potent Weapon with formidable range, suitable for high strength players who want to deal Fire damage and can tolerate this hammer's weight.",
+                        "location": [
+                            "Giant-Conquering Hero's Grave: Found on a corpse at the end of a large hall locked behind an Imp Statue. This hall is directly above the room with the flamethrower pillar."
+                        ],
+                        "fp": "15",
+                        "weight": "12.5",
+                        "skill": [
+                            {
+                                "name": "Surge of Faith",
+                                "description": "Surge of Faith is a Skill in Elden Ring. Surge of Faith allows players to rain down fireballs on enemies",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Beastclaw Greathammer",
+                    "attack": {
+                        "Physical": "116",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "75",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "62",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "45",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"D",
+                        "Faith":"D"  
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity":"10",
+                        "Faith":"18" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Beastclaw Greathammer is a Great Hammer (Warhammer) in Elden Ring. The Beastclaw Greathammer scales primarily with Strength and Dexterity and is a good Weapon for high strength players who can hold this weapon's weight.",
+                        "location": [
+                            "Gurranq will reward the player with this after turning in their 7th Deathroot."
+                        ],
+                        "fp": "20",
+                        "weight": "9",
+                        "skill": [
+                            {
+                                "name": "Regal Beastclaw",
+                                "description": "Regal Beastclaw is a Skill in Elden Ring. Regal Beastclaw is a unique skill that can be used on the Beastclaw Greathammer. It allows players to slam the hammer into the ground, sending out a fan of five bestial claws on the ground.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Devourer's Scepter",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "0",
+                        "Fire": "69",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "62",
+                        "Magic": "33",
+                        "Fire": "45",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "42"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity":"D",
+                        "Faith":"D"  
+                    },
+                    "requiredStats": {
+                        "Strength": "24",
+                        "Dexterity":"20",
+                        "Faith":"25" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Devourer's Scepter is a Great Hammer (Warhammer) in Elden Ring. The Devourer's Scepter scales primarily with Strength, Dexterity and Faith. It is a good Weapon for high strength players who can hold this weapon's weight. The weight is worth the ability to crush enemy armor, sometimes along with the enemy itself.  ",
+                        "location": [
+                            "Dropped by Knight/Recusant Bernahl when defeated. You will find him at Warmaster's Shack [Map Link] or in Crumbling Farum Azula when he invades you."
+                        ],
+                        "fp": "35",
+                        "weight": "11.5",
+                        "skill": [
+                            {
+                                "name": "Devourer of Worlds",
+                                "description": "Devourer of Worlds is a Skill in Elden Ring. Devourer of Worlds is a skill that allows the user to steal HP of all nearby enemies by hitting the ground with the scepter.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
             "colossalWeapons": [],
             "spears": [],
             "greatSpears": [],
