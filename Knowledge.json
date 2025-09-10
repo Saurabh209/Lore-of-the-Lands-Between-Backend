@@ -13560,12 +13560,12 @@
                     "scaling": {
                         "Strength": "D",
                         "Dexterity": "D",
-                        "Intelligence":"E"
+                        "Intelligence": "E"
                     },
                     "requiredStats": {
                         "Strength": "34",
                         "Dexterity": "12",
-                        "Intelligence":"20"
+                        "Intelligence": "20"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -13638,8 +13638,991 @@
                     }
                 }
             ],
-            "spears": [],
-            "greatSpears": [],
+            "spears": [
+                {
+                    "name": "Smithscript Spear",
+                    "attack": {
+                        "Physical": "107",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "38",
+                        "Magic": "23",
+                        "Fire": "23",
+                        "Lightning": "23",
+                        "Holy": "23",
+                        "Boost": "28"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Intelligence": "E",
+                        "Faith": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "9",
+                        "Dexterity": "12",
+                        "Intelligence": "11",
+                        "Faith": "11"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Smithscript Spear is a Spear in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Smithscript Spear scales primarily with Strength, Dexterity, Intelligence and Faith and is a good Weapon for players that want a ranged melee alternative without a FP cost. As a Smithscript weapon, it can be thrown and immediately returns to the user's hand.",
+                        "location": [
+                            "Ruined Forge Starfall Past: The weapon is looted from a body located on the main floor of the Ruined Forge of Starfall Past."
+                        ],
+                        "fp": "9",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust ",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Swift Spear",
+                    "attack": {
+                        "Physical": "99",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "25",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "26"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Swift Spear is a Spear in Elden Ring. It is a brand new Spear in the Shadow of the Erdtree DLC. The Swift Spear scales primarily with Dexterity and is a good Weapon for builds that like to attack rapidly with decent range. This weapon is good for its high attack speed and can be paired with a shield. This also comes with the Impaling Thrust which goes through an enemy guarding.",
+                        "location": [
+                            "Can be found lying on a corpse guarded by 3 Messmer Soldiers along the road going South-East from the Castle Front site of grace."
+                        ],
+                        "fp": "9",
+                        "weight": "3",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust ",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Bloodfiend's Fork",
+                    "attack": {
+                        "Physical": "105",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "26",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Arcane": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "8",
+                        "Arcane": "13"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bloodfiend's Fork is a Spear in Elden Ring. It is a brand new Spear in the Shadow of the Erdtree DLC. The Bloodfiend's Fork scales primarily with Strength, Dexterity and Arcane and is a good Weapon for Bleed and Arcane Builds. This weapon causes blood loss build-up and can increase attack power by using the Barbaric Roar skill along with a combo.",
+                        "location": [
+                            "Has a 3.0% dropped from Bloodfiends who wield it (you can find two in a melee battle not far from Ruined Forge Lava Intake)"
+                        ],
+                        "fp": "16",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Short Spear",
+                    "attack": {
+                        "Physical": "112",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "25",
+                        "Boost": "30"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Short Spear is a Spear in Elden Ring. The Short Spear scales primarily with Strength and Dexterity and is a good Weapon for short range melee combat.  ",
+                        "location": [
+                            "Starting Equipment for the Prophet Class.",
+                            "Can be purchased from Twin Maiden Husks at the Roundtable Hold"
+                        ],
+                        "fp": "14",
+                        "weight": "4",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Iron Spear",
+                    "attack": {
+                        "Physical": "114",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "26",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "13",
+                        "Dexterity": "11"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Iron Spear is a Spear in Elden Ring. The Iron Spear scales primarily with Strength and Dexterity.  ",
+                        "location": [
+                            "Dropped by Fallen Hawks Soldiers that wield it."
+                        ],
+                        "fp": "16",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Charge Forth",
+                                "description": "Charge Forth is a Skill in Elden Ring. Charge Forth is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Spear",
+                    "attack": {
+                        "Physical": "114",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "26",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "31"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Spear is a basic Spear weapon in Elden Ring. The Spear scales primarily with Dexterity and Strength and is a good Weapon for any short-range dexterity build fighter. ",
+                        "location": [
+                            "A +7 version drops from Patches in Murkwater Cave if he is killed after pleading for mercy."
+                        ],
+                        "fp": "9",
+                        "weight": "4.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Partisan",
+                    "attack": {
+                        "Physical": "123",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "30",
+                        "Fire": "30",
+                        "Lightning": "30",
+                        "Holy": "30",
+                        "Boost": "36"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "15",
+                        "Dexterity": "12"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Partisan is a Spear in Elden Ring. The Partisan scales primarily with Dexterity and Strength and is a good Weapon for making further melee attacks with its length and ability to sweep and thrust through enemies within range. ",
+                        "location": [
+                            "Dropped by the heavy Godrick Knight in Gatefront Ruins",
+                            "Dropped by the Redmane Knight in Fort Gael"
+                        ],
+                        "fp": "9",
+                        "weight": "6.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Pike",
+                    "attack": {
+                        "Physical": "115",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "53",
+                        "Magic": "33",
+                        "Fire": "33",
+                        "Lightning": "33",
+                        "Holy": "33",
+                        "Boost": "39"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Pike is a Spear in Elden Ring. The Pike scales primarily with Strength and Dexterity and is a good Weapon for long distance combat and horseback combat. This weapon is best used in an open area to better suit this weapon's range. ",
+                        "location": [
+                            "Location: Stormveil Castle",
+                            "Can be looted off a corpse that's lying on the heavily guarded courtyard. The nearest checkpoint is the Liftside Chamber site of grace"
+                        ],
+                        "fp": "16",
+                        "weight": "7.5",
+                        "skill": [
+                            {
+                                "name": "Charge Forth",
+                                "description": "Charge Forth is a Skill in Elden Ring. Charge Forth is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Spiked Spear",
+                    "attack": {
+                        "Physical": "120",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "46",
+                        "Magic": "28",
+                        "Fire": "28",
+                        "Lightning": "28",
+                        "Holy": "28",
+                        "Boost": "34"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Spiked Spear is a Spear in Elden Ring. The Spiked Spear scales primarily with Stength and Dexterity and is a good Weapon for melee users who want to perform longer-reaching piercing attacks with the potential to bleed. ",
+                        "location": [
+                            "Chance to drop from 1 spear-wielding Marionette Soldier just outside of Witchbane Ruins."
+                        ],
+                        "fp": "9",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Cross-Naginata",
+                    "attack": {
+                        "Physical": "122",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "52",
+                        "Magic": "32",
+                        "Fire": "32",
+                        "Lightning": "32",
+                        "Holy": "32",
+                        "Boost": "39"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Cross-Naginata is a Spear in Elden Ring. The Cross-Naginata scales primarily with Strength and Dexterity and is a good Weapon for melee players who want a long-reach alternative. ",
+                        "location": [
+                            "Gael Tunnel: Found on a corpse inside a cavern with a Giant Land Octopus hanging from the ceiling."
+                        ],
+                        "fp": "9",
+                        "weight": "8",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Clayman's Harpoon",
+                    "attack": {
+                        "Physical": "99",
+                        "Magic": "64",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "38",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "25",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "12",
+                        "Dexterity": "10",
+                        "Intelligence": "12"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Clayman's Harpoon is a Spear in Elden Ring. The Clayman's Harpoon scales primarily with Strength, Dexterity, and Intelligence and is a good Weapon for its additional Magic Damage.  ",
+                        "location": [
+                            "Dropped by Clayman at Uhl Palace Ruins, Siofra River or Ainsel River."
+                        ],
+                        "fp": "9",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Celebrant's Rib-Rake",
+                    "attack": {
+                        "Physical": "109",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "40",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "25",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "8",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Celebrant's Rib-Rake is a Spear in Elden Ring. The Celebrant's Rib-Rake scales primarily with Dexterity and is a good Weapon for piercing enemies.",
+                        "location": [
+                            "Chance drop by the Celebrants of Windmill Village."
+                        ],
+                        "fp": "16",
+                        "weight": "5",
+                        "skill": [
+                            {
+                                "name": "Barbaric Roar",
+                                "description": "Barbaric Roar is a Skill in Elden Ring. Barbaric Roar is a default skill of the Greataxe and the Club. Barbaric Roar has the Heavy Affinity. Other roar skills include War Cry and Braggart's Roar.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Torchpole",
+                    "attack": {
+                        "Physical": "104",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "26",
+                        "Fire": "33",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "34"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "15"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Torchpole is a Spear in Elden Ring. The Torchpole scales primarily with Strength and Dexterity, and is a decent Weapon for inflicting fire-based attacks from far away.",
+                        "location": [
+                            "Players can obtain the Torchpole by killing the Stormveil Castle courtyard guards."
+                        ],
+                        "fp": "16",
+                        "weight": "6",
+                        "skill": [
+                            {
+                                "name": "Charge Forth",
+                                "description": "Charge Forth is a Skill in Elden Ring. Charge Forth is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Inquisitor's Girandole",
+                    "attack": {
+                        "Physical": "102",
+                        "Magic": "0",
+                        "Fire": "66",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "56",
+                        "Magic": "28",
+                        "Fire": "43",
+                        "Lightning": "28",
+                        "Holy": "28",
+                        "Boost": "37"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "18",
+                        "Dexterity": "15",
+                        "Faith": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Inquisitor's Girandole is a Spear in Elden Ring. The Inquisitor's Girandole scales primarily with Strength, Dexterity and Faith. It is a good Weapon for medium reach when in melee combat. ",
+                        "location": [
+                            "Dropped by the Abductor Virgins Field Boss in Volcano Manor's underground, down from the Subterranean Inquisition Chamber site of grace."
+                        ],
+                        "fp": "16",
+                        "weight": "7.5",
+                        "skill": [
+                            {
+                                "name": "Charge Forth",
+                                "description": "Charge Forth is a Skill in Elden Ring. Charge Forth is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Crystal Spear",
+                    "attack": {
+                        "Physical": "110",
+                        "Magic": "33",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "33",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "16",
+                        "Intelligence": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Crystal Spear is a Spear in Elden Ring. The Crystal Spear scales primarily with Dexterity and is a good Weapon for short range melee combat and to inflict magic-based attacks. ",
+                        "location": [
+                            "Can be found inside Sellia Hideaway."
+                        ],
+                        "fp": "9",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Rotten Crystal Spear",
+                    "attack": {
+                        "Physical": "104",
+                        "Magic": "31",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "33",
+                        "Fire": "26",
+                        "Lightning": "26",
+                        "Holy": "26",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "10",
+                        "Dexterity": "16",
+                        "Intelligence": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Rotten Crystal Spear is a Spear in Elden Ring. The Rotten Crystal Spear scales primarily with Strength, Dexterity and Intelligence and is a good Weapon for medium range attacks and inflicting magic damage. ",
+                        "location": [
+                            "Can be dropped by Lesser Crystalian enemies located within Elphael, Brace of the Haligtree."
+                        ],
+                        "fp": "16",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Charge Forth",
+                                "description": "Charge Forth is a Skill in Elden Ring. Charge Forth is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Cleanrot Spear",
+                    "attack": {
+                        "Physical": "102",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "49",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "38",
+                        "Boost": "33"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "16",
+                        "Dexterity": "16",
+                        "Faith": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Cleanrot Spear is a Spear in Elden Ring. The Cleanrot Spear scales primarily with Strength, Dexterity, and Faith and is a good Weapon for Faith based fighters. ",
+                        "location": [
+                            "Drops from spear-wielding Lesser Cleanrot Knights south of the Heart of Aeonia by Commander O'Neil (low drop rate)."
+                        ],
+                        "fp": "12",
+                        "weight": "5.5",
+                        "skill": [
+                            {
+                                "name": "Sacred Phalanx",
+                                "description": "Sacred Phalanx is a Skill in Elden Ring. Sacred Phalanx is a unique skill found on the Cleanrot Spear. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Death Ritual Spear",
+                    "attack": {
+                        "Physical": "99",
+                        "Magic": "64",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "110"
+                    },
+                    "guard": {
+                        "Physical": "54",
+                        "Magic": "42",
+                        "Fire": "27",
+                        "Lightning": "27",
+                        "Holy": "27",
+                        "Boost": "36"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D",
+                        "Intelligence": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "20",
+                        "Intelligence": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Death Ritual Spear is a Spear in Elden Ring. The Death Ritual Spear scales primarily with Strength, Dexterity, and Intelligence and is a good Weapon to engage in close combat from a safe distance, piercing enemies during battle.",
+                        "location": [
+                            "Dropped by the Death Rite Bird fought in the Mountaintops of the Giants."
+                        ],
+                        "fp": "20",
+                        "weight": "6.5",
+                        "skill": [
+                            {
+                                "name": "Spearcall Ritual",
+                                "description": "Spearcall Ritual is a Skill in Elden Ring. Spearcall Ritual is a special skill that is only available for the Death Ritual Spear, and cannot be applied to other weapons via Ashes of War.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Bolt of Gransax",
+                    "attack": {
+                        "Physical": "98",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "63",
+                        "Holy": "0",
+                        "Critical": "110"
+                    },
+                    "guard": {
+                        "Physical": "60",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "47",
+                        "Holy": "31",
+                        "Boost": "40"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D" 
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity": "40" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bolt of Gransax is a Spear in Elden Ring. The Bolt of Gransax scales primarily with Strength and Dexterity and is a potent Lightning-imbued Weapon to hunt down dragon-like enemies or engage dangerous foes from afar. ",
+                        "location": [
+                            "Can be found in Leyndell, Royal Capital, at the topn of real bolt of gransax"
+                        ],
+                        "fp": "25",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Ancient Lightning Spear",
+                                "description": "Ancient Lightning Spear is a Skill in Elden Ring. Ancient Lightning Spear is a unique skill that can be used on the Bolt of Gransax.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
+            "greatSpears": [
+                {
+                    "name": "Bolt of Gransax",
+                    "attack": {
+                        "Physical": "98",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "63",
+                        "Holy": "0",
+                        "Critical": "110"
+                    },
+                    "guard": {
+                        "Physical": "60",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "47",
+                        "Holy": "31",
+                        "Boost": "40"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D" 
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity": "40" 
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bolt of Gransax is a Spear in Elden Ring. The Bolt of Gransax scales primarily with Strength and Dexterity and is a potent Lightning-imbued Weapon to hunt down dragon-like enemies or engage dangerous foes from afar. ",
+                        "location": [
+                            "Can be found in Leyndell, Royal Capital, at the topn of real bolt of gransax"
+                        ],
+                        "fp": "25",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Ancient Lightning Spear",
+                                "description": "Ancient Lightning Spear is a Skill in Elden Ring. Ancient Lightning Spear is a unique skill that can be used on the Bolt of Gransax.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
             "halberds": [],
             "reapers": [],
             "whips": [],
