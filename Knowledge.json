@@ -11659,7 +11659,7 @@
                     },
                     "requiredStats": {
                         "Strength": "10",
-                        "Dexterity": "18" 
+                        "Dexterity": "18"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -11707,7 +11707,7 @@
                     },
                     "requiredStats": {
                         "Strength": "10",
-                        "Dexterity": "24" 
+                        "Dexterity": "24"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -11755,7 +11755,7 @@
                     },
                     "requiredStats": {
                         "Strength": "18",
-                        "Dexterity": "12" 
+                        "Dexterity": "12"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -11800,12 +11800,12 @@
                     "scaling": {
                         "Strength": "E",
                         "Dexterity": "C",
-                        "Intelligence":"E"
+                        "Intelligence": "E"
                     },
                     "requiredStats": {
                         "Strength": "8",
-                        "Dexterity": "18" ,
-                        "Intelligence":"16"
+                        "Dexterity": "18",
+                        "Intelligence": "16"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -11850,12 +11850,12 @@
                     "scaling": {
                         "Strength": "E",
                         "Dexterity": "D",
-                        "Intelligence":"C"
+                        "Intelligence": "C"
                     },
                     "requiredStats": {
                         "Strength": "8",
-                        "Dexterity": "22" ,
-                        "Intelligence":"22"
+                        "Dexterity": "22",
+                        "Intelligence": "22"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -11878,7 +11878,7 @@
                             "It contain gameplay video with this with this weapon"
                         ]
                     }
-                } 
+                }
             ],
             "greatHammers": [
                 {
@@ -11902,12 +11902,12 @@
                     "scaling": {
                         "Strength": "C",
                         "Dexterity": "E",
-                        "Faith":"D"
+                        "Faith": "D"
                     },
                     "requiredStats": {
                         "Strength": "25",
-                        "Dexterity": "11" ,
-                        "Faith":"17"
+                        "Dexterity": "11",
+                        "Faith": "17"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -11952,14 +11952,14 @@
                     "scaling": {
                         "Strength": "C",
                         "Dexterity": "E",
-                        "Intelligence":"E",
-                        "Faith":"D"
+                        "Intelligence": "E",
+                        "Faith": "D"
                     },
                     "requiredStats": {
                         "Strength": "20",
                         "Dexterity": "10",
-                        "Intelligence":"11",
-                        "Faith":"11"
+                        "Intelligence": "11",
+                        "Faith": "11"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12002,10 +12002,10 @@
                         "Boost": "38"
                     },
                     "scaling": {
-                        "Strength": "C" 
+                        "Strength": "C"
                     },
                     "requiredStats": {
-                        "Strength": "22" 
+                        "Strength": "22"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12049,11 +12049,11 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity": "D" 
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "24",
-                        "Dexterity": "10" 
+                        "Dexterity": "10"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12096,10 +12096,10 @@
                         "Boost": "38"
                     },
                     "scaling": {
-                        "Strength": "C" 
+                        "Strength": "C"
                     },
                     "requiredStats": {
-                        "Strength": "28" 
+                        "Strength": "28"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12143,11 +12143,11 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"D" 
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "22",
-                        "Dexterity":"10"  
+                        "Dexterity": "10"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12190,10 +12190,10 @@
                         "Boost": "48"
                     },
                     "scaling": {
-                        "Strength": "B"  
+                        "Strength": "B"
                     },
                     "requiredStats": {
-                        "Strength": "31" 
+                        "Strength": "31"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12237,11 +12237,11 @@
                     },
                     "scaling": {
                         "Strength": "C",
-                        "Dexterity":"E"  
+                        "Dexterity": "E"
                     },
                     "requiredStats": {
                         "Strength": "26",
-                        "Dexterity":"8" 
+                        "Dexterity": "8"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12285,11 +12285,11 @@
                     },
                     "scaling": {
                         "Strength": "C",
-                        "Dexterity":"E"  
+                        "Dexterity": "E"
                     },
                     "requiredStats": {
                         "Strength": "26",
-                        "Dexterity":"8" 
+                        "Dexterity": "8"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12333,11 +12333,11 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"D"  
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "18",
-                        "Dexterity":"12" 
+                        "Dexterity": "12"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12381,11 +12381,11 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"D"  
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "22",
-                        "Dexterity":"12" 
+                        "Dexterity": "12"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12429,11 +12429,11 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"D"  
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "22",
-                        "Dexterity":"10" 
+                        "Dexterity": "10"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12477,13 +12477,13 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"D",
-                        "Faith":"C"  
+                        "Dexterity": "D",
+                        "Faith": "C"
                     },
                     "requiredStats": {
                         "Strength": "23",
-                        "Dexterity":"11",
-                        "Faith":"18" 
+                        "Dexterity": "11",
+                        "Faith": "18"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12527,13 +12527,13 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"E",
-                        "Faith":"D"  
+                        "Dexterity": "E",
+                        "Faith": "D"
                     },
                     "requiredStats": {
                         "Strength": "26",
-                        "Dexterity":"8",
-                        "Faith":"22" 
+                        "Dexterity": "8",
+                        "Faith": "22"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12577,13 +12577,13 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"D",
-                        "Faith":"D"  
+                        "Dexterity": "D",
+                        "Faith": "D"
                     },
                     "requiredStats": {
                         "Strength": "20",
-                        "Dexterity":"10",
-                        "Faith":"18" 
+                        "Dexterity": "10",
+                        "Faith": "18"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12627,13 +12627,13 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity":"D",
-                        "Faith":"D"  
+                        "Dexterity": "D",
+                        "Faith": "D"
                     },
                     "requiredStats": {
                         "Strength": "24",
-                        "Dexterity":"20",
-                        "Faith":"25" 
+                        "Dexterity": "20",
+                        "Faith": "25"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -12658,7 +12658,986 @@
                     }
                 }
             ],
-            "colossalWeapons": [],
+            "colossalWeapons": [
+                {
+                    "name": "Bloodfiend's Arm",
+                    "attack": {
+                        "Physical": "147",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "76",
+                        "Magic": "46",
+                        "Fire": "46",
+                        "Lightning": "46",
+                        "Holy": "46",
+                        "Boost": "51"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "28",
+                        "Dexterity": "11",
+                        "Faith": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Bloodfiend's Arm is a Colossal Weapon in Elden Ring. It was added with the Shadow of the Erdtree DLC. The Bloodfiend's Arm scales primarily with Strength, Dexterity and Arcane and is a good Weapon for Bleed and Arcane Builds. This is a slow but hard-hitting weapon that sprays blood when using the heavy attacks.",
+                        "location": [
+                            "Guaranteed one-time drop from a Bloodfiend group in Prospect Town located at the Gravesite Plain."
+                        ],
+                        "fp": "9",
+                        "weight": "20",
+                        "skill": [
+                            {
+                                "name": "Endure ",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Anvil Hammer",
+                    "attack": {
+                        "Physical": "131",
+                        "Magic": "0",
+                        "Fire": "85",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "80",
+                        "Magic": "43",
+                        "Fire": "59",
+                        "Lightning": "43",
+                        "Holy": "41",
+                        "Boost": "53"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E",
+                        "Faith": "D",
+                        "Intelligence": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "39",
+                        "Dexterity": "10",
+                        "Faith": "20",
+                        "Intelligence": "11"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Anvil Hammer is a Colossal Weapon in Elden Ring. It is a brand new Colossal Weapon in the Shadow of the Erdtree DLC. The Anvil Hammer scales primarily with Strength, Dexterity,  Intelligence and Faith and is a good Weapon for Strength or multi-attribute Builds. This weapon comes with the Smithing Art Spears skill which lets you smash the ground very hard and summons multiple spears from the ground.",
+                        "location": [
+                            "Ruined Forge Lava Intake. Use the column you have lowered with the lever as a bridge and climb it until the end. Beware of the fire blob, and then at the top, turn right and jump to reach the stairs. Climb them up and interact with a furnace to obtain this weapon and an Ancient Dragon Smithing Stone."
+                        ],
+                        "fp": "18",
+                        "weight": "22",
+                        "skill": [
+                            {
+                                "name": "Smithing Art Spears",
+                                "description": "Smithing Art Spears is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Smithing Art Spears summons countless spears from the ground, after shaming the anvil violently into the ground.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Devonia's Hammer",
+                    "attack": {
+                        "Physical": "147",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "44",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "73",
+                        "Magic": "45",
+                        "Fire": "45",
+                        "Lightning": "45",
+                        "Holy": "51",
+                        "Boost": "51"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "30",
+                        "Dexterity": "13",
+                        "Faith": "19"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Devonia's Hammer is a Colossal Weapon in Elden Ring. It is a Colossal Weapon introduced in the Shadow of the Erdtree DLC. The Devonia's Hammer scales primarily with Strength, Dexterity, and Faith and is a good Weapon for STR/FAI builds. It draws from the power of the Crucible.",
+                        "location": [
+                            "Dropped by Devonia, Crucible Knight near Rauh Ancient Ruins, East Grace."
+                        ],
+                        "fp": "16",
+                        "weight": "20",
+                        "skill": [
+                            {
+                                "name": "Devonia's Vortex",
+                                "description": "Devonia's Vortex is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Devonia's Vortex swings the hammer violently and slams it into the ground, creating a devastating shockwave.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Shadow Sunflower Blossom",
+                    "attack": {
+                        "Physical": "114",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "114",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "55",
+                        "Magic": "37",
+                        "Fire": "37",
+                        "Lightning": "37",
+                        "Holy": "64",
+                        "Boost": "46"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "24",
+                        "Dexterity": "8",
+                        "Faith": "25"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Shadow Sunflower Blossom is a Colossal Weapon in Elden Ring. It is a brand new Colossal Weapon in the Shadow of the Erdtree DLC. The Shadow Sunflower Blossom scales primarily with Strength, Dexterity and Faith and it can be obtained after trading the Remembrance of the Shadow Sunflower. ",
+                        "location": [
+                            "Trade Remembrance of the Shadow Sunflower at Enia to receive this weapon."
+                        ],
+                        "fp": "16",
+                        "weight": "16",
+                        "skill": [
+                            {
+                                "name": "Shadow Sunflower Headbutt",
+                                "description": "Shadow Sunflower Headbutt is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Shadow Sunflower Headbutt slams down the weapon, sending out a powerful shockwave that can be followed-up by two more attacks.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Gazing Finger",
+                    "attack": {
+                        "Physical": "133",
+                        "Magic": "86",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "66",
+                        "Magic": "50",
+                        "Fire": "38",
+                        "Lightning": "38",
+                        "Holy": "38",
+                        "Boost": "46"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Intelligence": "D",
+                        "Faith": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity": "8",
+                        "Intelligence": "20",
+                        "Faith": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Gazing Finger is a Colossal Weapon in Elden Ring. It is a brand new Colossal Weapon in the Shadow of the Erdtree DLC. The Gazing Finger scales primarily with Strength, Intelligence and Faith and can be obtained after trading the Remembrance of the Mother of Fingers at the Roundtable Hold. This has the Kowtower's Resentment skill that lets you slam the weapon down and causes a holy explosion.",
+                        "location": [
+                            "Trade Remembrance of the Mother of Fingers at Enia to receive this weapon."
+                        ],
+                        "fp": "31",
+                        "weight": "15",
+                        "skill": [
+                            {
+                                "name": "Kowtower's Resentment",
+                                "description": "Kowtower's Resentment is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Kowtower's Resentment is a chargeable skill that forces to bow a finger's foremost protrusion, making it explode.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Duelist Greataxe",
+                    "attack": {
+                        "Physical": "170",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "78",
+                        "Magic": "47",
+                        "Fire": "47",
+                        "Lightning": "47",
+                        "Holy": "47",
+                        "Boost": "52"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Duelist Greataxe is a Colossal Weapon in Elden Ring. The Duelist Greataxe scales primarily with Strength and Dexterity, and is a good Weapon for strong melee slashing attacks. Those who want to wield this colossal greataxe will need high Strength stats to be able to use it. ",
+                        "location": [
+                            "Potential drop In Leyndell near the West Capital Rampart Site of Grace from the Duelist enemies near the colosseum."
+                        ],
+                        "fp": "9",
+                        "weight": "20",
+                        "skill": [
+                            {
+                                "name": "Endure",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Rotten Greataxe",
+                    "attack": {
+                        "Physical": "162",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "78",
+                        "Magic": "47",
+                        "Fire": "47",
+                        "Lightning": "47",
+                        "Holy": "47",
+                        "Boost": "52"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "30",
+                        "Dexterity": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Rotten Greataxe is a Colossal Weapon in Elden Ring. The Rotten Greataxe scales primarily with Strength and Dexterity and is a good Weapon for going against large creatures and enemies. ",
+                        "location": [
+                            "Dropped by Rotten Duelist to the north of Ordina, Liturgical Town."
+                        ],
+                        "fp": "9",
+                        "weight": "20",
+                        "skill": [
+                            {
+                                "name": "Endure",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat. ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Golem's Halberd",
+                    "attack": {
+                        "Physical": "158",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "75",
+                        "Magic": "45",
+                        "Fire": "45",
+                        "Lightning": "45",
+                        "Holy": "45",
+                        "Boost": "50"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "36",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Golem's Halberd is a Colossal Weapon in Elden Ring. The Golem's Halberd scales primarily with Strength and Dexterity and is a good Weapon for a melee combat. This weapon packs a lot of attack power which can deal a significant amount of Physical Damage. It requires a warrior with great Strength to wield it. ",
+                        "location": [
+                            "Possible drop from a Golem wielding this weapon, the earliest respawning one being at Limgrave Tower Bridge Site of Grace."
+                        ],
+                        "fp": "16",
+                        "weight": "21.5",
+                        "skill": [
+                            {
+                                "name": "Charge Forth",
+                                "description": "Charge Forth is a Skill in Elden Ring. Charge Forth is a regular skill that can be found in Ashes of War and applied to compatible weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Giant-Crusher",
+                    "attack": {
+                        "Physical": "155",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "88",
+                        "Magic": "52",
+                        "Fire": "52",
+                        "Lightning": "52",
+                        "Holy": "52",
+                        "Boost": "58"
+                    },
+                    "scaling": {
+                        "Strength": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "60"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Giant-Crusher is a Colossal Weapon in Elden Ring. The Giant-Crusher scales primarily with Strength and is a good Weapon for dealing great physical damage, but this heavy weapon also requires great Strength to wield. ",
+                        "location": [
+                            "Can be found in a chest in the back of a Carriage directly to the south of Outer Wall Phantom Tree site of grace."
+                        ],
+                        "fp": "9",
+                        "weight": "26.5",
+                        "skill": [
+                            {
+                                "name": "Endure",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Prelate's Inferno Crozier",
+                    "attack": {
+                        "Physical": "156",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "82",
+                        "Magic": "49",
+                        "Fire": "49",
+                        "Lightning": "49",
+                        "Holy": "49",
+                        "Boost": "55"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "45",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Prelate's Inferno Crozier is a Colossal Weapon in Elden Ring. The Prelate's Inferno Crozier scales primarily with Strength and Dexterity and is a good Weapon for strong melee attacks that will fling enemies into the air. Those who want to wield this colossal hammer will need high Strength stats to be able to use it.",
+                        "location": [
+                            "Drops from a Fire Prelate wielding it inside Fort Laiedd near Seethewater Terminus Site of Grace."
+                        ],
+                        "fp": "7",
+                        "weight": "23.5",
+                        "skill": [
+                            {
+                                "name": "Prelate's Charge",
+                                "description": "Prelate's Charge is a Skill in Elden Ring. Prelate's Charge is a regular skill that smashes the weapon into the ground to create a surge of flames. Prelate's Charge has Flame Affinity and is usable on large and colossal axes and hammers.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Great Club",
+                    "attack": {
+                        "Physical": "154",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "46",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "70",
+                        "Magic": "41",
+                        "Fire": "42",
+                        "Lightning": "40",
+                        "Holy": "47",
+                        "Boost": "47"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "35"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "The Great Club is a Colossal Weapon in Elden Ring. It is said to be a withered branch of the Erdtree. The Great Club scales primarily with Strength and is a good Weapon for dealing Physical and Holy Damage. The skill attached to this weapon also has an ability that unleashes a blast of energy and releases them as golden darts.",
+                        "location": [
+                            "Dropped by the Stonedigger Troll boss in Old Altus Tunnel, the tunnel requires two Stonesword Keys."
+                        ],
+                        "fp": "16",
+                        "weight": "17",
+                        "skill": [
+                            {
+                                "name": "Golden Land",
+                                "description": "Golden Land is a Skill in Elden Ring. Golden Land is skill found on the Great Club that can release energy in the form of golden darts onto nearby enemies. It has Sacred Affinity and is usable on greataxes, great hammers, great spears, and colossal weapons",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Troll's Hammer",
+                    "attack": {
+                        "Physical": "153",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "46",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "66",
+                        "Magic": "41",
+                        "Fire": "46",
+                        "Lightning": "41",
+                        "Holy": "41",
+                        "Boost": "46"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "E",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "35",
+                        "Dexterity": "8",
+                        "Faith": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Troll's Hammer is a Colossal Weapon in Elden Ring. The Troll's Hammer scales primarily with Strength, Faith, and Dexterity, and is a good Weapon for dealing Physical Damage, but also can deal Fire Damage. This weapon is best used when surrounded by multiple foes due to its accompanying Skill, Troll's Roar.  This allows the user to distance themself away from nearby enemies, by generating a shockwave that blows them back. ",
+                        "location": [
+                            "Found in a storage shed inside the Old Altus Tunnel dungeon."
+                        ],
+                        "fp": "22",
+                        "weight": "16",
+                        "skill": [
+                            {
+                                "name": "Troll's Roar",
+                                "description": "Troll's Roar is a Skill in Elden Ring. Troll's Roar is a skill found on the Troll's Hammer, Troll's Golden Sword, and Troll Knight's Sword. This allows the user to distance himself from nearby enemies by generating a shockwave that blows them back ",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Dragon Greatclaw",
+                    "attack": {
+                        "Physical": "120",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "78",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "66",
+                        "Magic": "40",
+                        "Fire": "40",
+                        "Lightning": "52",
+                        "Holy": "40",
+                        "Boost": "47"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "30",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Dragon Greatclaw is a Colossal Weapon in Elden Ring. The Dragon Greatclaw scales primarily with Strength and Dexterity and is a good Weapon for going against dragon-like creatures and enemies. In addition to general Physical Damage, what makes this weapon great is that it does Lightning Damage which can be especially effective towards specific enemy types.",
+                        "location": [
+                            "Dropped by the Draconic Tree Sentinel, fought at Capital Outskirts."
+                        ],
+                        "fp": "9",
+                        "weight": "16",
+                        "skill": [
+                            {
+                                "name": "Endure",
+                                "description": "Endure is a Skill in Elden Ring. Endure is a is a regular skill that can be found in Ashes of War and can be applied to all melee armaments. Endure will greatly complement playstyles that rely on blocking and tanking hits during combat.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Watchdog's Staff",
+                    "attack": {
+                        "Physical": "165",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "75",
+                        "Magic": "45",
+                        "Fire": "45",
+                        "Lightning": "45",
+                        "Holy": "45",
+                        "Boost": "50"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "34",
+                        "Dexterity": "10"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Watchdog's Staff is a Colossal Weapon in Elden Ring. The Watchdog's Staff scales primarily with Strength, with reduced scaling in Dexterty, and is a potent Weapon for non-Int builds in need of heavy ranged Magic damage.",
+                        "location": [
+                            "Located in Road's End Catacombs in Liurnia of the Lakes"
+                        ],
+                        "fp": "15",
+                        "weight": "19",
+                        "skill": [
+                            {
+                                "name": "Sorcery of the Crozier",
+                                "description": "Sorcery of the Crozier is a Skill in Elden Ring. Sorcery of the Crozier is a Unique Skill for the Colossal Weapon Watchdog's Staff.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Staff of the Avatar",
+                    "attack": {
+                        "Physical": "113",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "73",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "73",
+                        "Magic": "45",
+                        "Fire": "45",
+                        "Lightning": "45",
+                        "Holy": "57",
+                        "Boost": "52"
+                    },
+                    "scaling": {
+                        "Strength": "C",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "34",
+                        "Dexterity": "8",
+                        "Faith": "24"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Staff of the Avatar is a Colossal Weapon in Elden Ring. It depicts an ancient appearance of the Erdtree. The Staff of the Avatar scales primarily with Strength, Dexterity, and Faith and is a good Weapon for those who want a STR/FAI hybrid melee build. ",
+                        "location": [
+                            "Drops from the Erdtree Avatar you encounter near the Great Waterfall Crest site of grace."
+                        ],
+                        "fp": "19",
+                        "weight": "20",
+                        "skill": [
+                            {
+                                "name": "Erdtree Slam",
+                                "description": "Erdtree Slam is a Skill in Elden Ring. Erdtree Slam is a special skill only available on the Staff of the Avatar and Rotten Staff weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Rotten Staff",
+                    "attack": {
+                        "Physical": "165",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "75",
+                        "Magic": "45",
+                        "Fire": "45",
+                        "Lightning": "45",
+                        "Holy": "45",
+                        "Boost": "50"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E"
+                    },
+                    "requiredStats": {
+                        "Strength": "34",
+                        "Dexterity": "8"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Rotten Staff is a Colossal Weapon in Elden Ring. The Rotten Staff scales primarily with Strength and Dexterity and is a good Weapon for those who want a Strength/Dexterity hybrid melee build.",
+                        "location": [
+                            "Elphael, Brace of the Haligtree: Dropped by the Putrid Avatar patrolling the ring walkway in the east."
+                        ],
+                        "fp": "19",
+                        "weight": "18",
+                        "skill": [
+                            {
+                                "name": "Erdtree Slam",
+                                "description": "Erdtree Slam is a Skill in Elden Ring. Erdtree Slam is a special skill only available on the Staff of the Avatar and Rotten Staff weapons.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Envoy's Greathorn",
+                    "attack": {
+                        "Physical": "121",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "78",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "70",
+                        "Magic": "43",
+                        "Fire": "43",
+                        "Lightning": "43",
+                        "Holy": "55",
+                        "Boost": "50"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "E",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "28",
+                        "Dexterity": "12",
+                        "Faith": "24"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Envoy's Greathorn is a Colossal Weapon in Elden Ring. The Envoy's Greathorn scales primarily with Strength and is a good Weapon for dealing Holy damage.",
+                        "location": [
+                            "Dropped by Giant Oracle Envoy. They are found in Miquella's Haligtree."
+                        ],
+                        "fp": "16",
+                        "weight": "19.5",
+                        "skill": [
+                            {
+                                "name": "Great Oracular Bubble",
+                                "description": "Great Oracular Bubble (Skill) is a Skill in Elden Ring. Great Oracular Bubble Skill is a skill unique to the Envoy's Greathorn that allows the player to release a massive magic bubble upon blowing the horn.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Ghiza's Wheel",
+                    "attack": {
+                        "Physical": "156",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "73",
+                        "Magic": "43",
+                        "Fire": "43",
+                        "Lightning": "43",
+                        "Holy": "43",
+                        "Boost": "48"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "28",
+                        "Dexterity": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Ghiza's Wheel is a Colossal Weapon in Elden Ring. The Ghiza's Wheel scales primarily with Strength and Dexterity and is a good Weapon for dealing  a great amount of Physical Damage, but would require Great Strength to handle as well. This weapon has a unique skill where it can be set to spin at top speed even while moving.",
+                        "location": [
+                            "Reward for killing phantom Inquisitor Ghiza in Volcano Manor."
+                        ],
+                        "fp": "3",
+                        "weight": "19",
+                        "skill": [
+                            {
+                                "name": "Spinning Wheel",
+                                "description": "Spinning Wheel is a Skill in Elden Ring. Spinning Wheel is a unique skill on Ghiza's Wheel. Damage enemies with the quick spinning blades on the wheel and continue to move into enemies.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Fallingstar Beast Jaw",
+                    "attack": {
+                        "Physical": "131",
+                        "Magic": "85",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "70",
+                        "Magic": "55",
+                        "Fire": "43",
+                        "Lightning": "43",
+                        "Holy": "43",
+                        "Boost": "50"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Intelligence":"E"
+                    },
+                    "requiredStats": {
+                        "Strength": "34",
+                        "Dexterity": "12",
+                        "Intelligence":"20"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Fallingstar Beast Jaw is a Colossal Weapon in Elden Ring. The Fallingstar Beast Jaw scales primarily with Strength, Dexterity and Intelligence and is a good Weapon for skewering, piercing and striking foes. It has a unique Skill, the Gravity Bolt that can Imbue the jaw of a falling star beast with gravitational lightning, sending a bolt crashing down. ",
+                        "location": [
+                            "Dropped by the Full-Grown Fallingstar Beast in Mt. Gelmir. "
+                        ],
+                        "fp": "13",
+                        "weight": "21.5",
+                        "skill": [
+                            {
+                                "name": "Gravity Bolt",
+                                "description": "Gravity Bolt is a Skill in Elden Ring. Gravity Bolt is a Unique skill found on the Fallingstar Beast Jaw that can send a lightning bolt crashing down on foes",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Axe of Godfrey",
+                    "attack": {
+                        "Physical": "165",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "75",
+                        "Magic": "45",
+                        "Fire": "45",
+                        "Lightning": "45",
+                        "Holy": "45",
+                        "Boost": "50"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "42",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Axe of Godfrey is a Colossal Weapon in Elden Ring. The Axe of Godfrey scales primarily with Strength and Dexterity and is a good Weapon for strong melee attacks. ",
+                        "location": [
+                            "Obtained when unlocking the Remembrance of Hoarah Loux by handing it over to Enia at Roundtable Hold"
+                        ],
+                        "fp": "25",
+                        "weight": "18",
+                        "skill": [
+                            {
+                                "name": "Regal Roar",
+                                "description": "Regal Roar is a Skill in Elden Ring. Regal Roar is a powerful roar that raises attack power and emits an unguardable shockwave",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                }
+            ],
             "spears": [],
             "greatSpears": [],
             "halberds": [],
