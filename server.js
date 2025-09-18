@@ -1,12 +1,12 @@
 import express from 'express';
 import fs from 'fs';
-import cors from 'cors';  // 👈 import cors
+import cors from 'cors';   
 
 const Knowledge = JSON.parse(fs.readFileSync('./Knowledge.json', 'utf8'));
 
 const app = express();
 
-// 👇 Enable CORS
+ 
 app.use(cors({
   origin: ['http://localhost:5173'],  
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
