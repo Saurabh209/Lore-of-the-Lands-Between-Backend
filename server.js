@@ -7,15 +7,10 @@ const Knowledge = JSON.parse(fs.readFileSync('./Knowledge.json', 'utf8'));
 const app = express();
 
  
-app.use(cors({
-  origin: ['http://localhost:5173'],  
-  methods: ['GET', 'POST', 'PUT', 'DELETE'],
-  allowedHeaders: ['Content-Type']
-}));
+app.use(cors());
 
 app.get('/api/knowledge', (req, res) => {
   res.json(Knowledge);
-  console.log("Knowledge sent!");
 });
 
 const port = process.env.PORT || 3000;
