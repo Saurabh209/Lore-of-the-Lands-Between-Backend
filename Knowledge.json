@@ -538,7 +538,7 @@
                 "subtitle": "Malenia vs. Radahn",
                 "location": "Caelid",
                 "description": "The legendary duel that scarred the land forever",
-                "image": "https://images.unsplash.com/photo-1504893524553-b855bce32c67?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756479210/battle_of_aeonia_iq3lgt.jpg",
                 "outcome": "Stalemate - Both defeated",
                 "casualties": "Massive",
                 "aftermath": "Caelid became a wasteland of Scarlet Rot",
@@ -555,7 +555,7 @@
                 "subtitle": "The Capital's Last Stand",
                 "location": "Leyndell, Royal Capital",
                 "description": "The final battle for the throne of the Lands Between",
-                "image": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756588795/The_Siege_of_Leyndell_ml2dbp_c_crop_ar_3_4_jp8vea.webp",
                 "outcome": "Varied by Tarnished",
                 "casualties": "Heavy",
                 "aftermath": "The capital fell to ash",
@@ -572,7 +572,7 @@
                 "subtitle": "Godwyn vs. Fortissax",
                 "location": "Leyndell's Past",
                 "description": "The conflict that forged an unlikely friendship",
-                "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756588915/The_War_of_Ancient_Dragons_twztra.webp",
                 "outcome": "Peace Treaty",
                 "casualties": "Unknown",
                 "aftermath": "Dragons joined the Golden Order",
@@ -589,7 +589,7 @@
                 "subtitle": "The Assassination of Godwyn",
                 "location": "Leyndell",
                 "description": "The conspiracy that shattered the Golden Order",
-                "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756589054/The_Night_of_Black_Knives_fgivop.jpg",
                 "outcome": "Godwyn's Soul Death",
                 "casualties": "Godwyn the Golden",
                 "aftermath": "The Shattering begins",
@@ -606,7 +606,7 @@
                 "subtitle": "Radagon vs. The Academy",
                 "location": "Raya Lucaria Academy",
                 "description": "The siege that united sword and sorcery",
-                "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756589179/The_Conquest_of_Raya_Lucaria_rle164.webp",
                 "outcome": "Golden Order Victory",
                 "casualties": "Moderate",
                 "aftermath": "Marriage of Radagon and Rennala",
@@ -623,7 +623,7 @@
                 "subtitle": "The Carian Royal Family's Rise",
                 "location": "Liurnia of the Lakes",
                 "description": "The conflicts that established Carian supremacy",
-                "image": "https://images.unsplash.com/photo-1518837695005-2083093ee35b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756589506/The_Carian_Royal_Family_s_Rise_ff4c7n.webp",
                 "outcome": "Carian Victory",
                 "casualties": "Heavy among rival houses",
                 "aftermath": "Carian Royal Family unified Liurnia",
@@ -640,7 +640,7 @@
                 "subtitle": "Marika's Northern Campaign",
                 "location": "Mountaintops of the Giants",
                 "description": "The genocide that cursed a race to eternal servitude",
-                "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756589713/The_Flame_Giant_War_vasl0j.webp",
                 "outcome": "Golden Order Victory",
                 "casualties": "Near extinction of Fire Giants",
                 "aftermath": "The last giant guards the Flame of Ruin",
@@ -657,7 +657,7 @@
                 "subtitle": "The Omen Twins' Rebellion",
                 "location": "Leyndell Sewers",
                 "description": "The forgotten conflict in the depths",
-                "image": "https://images.unsplash.com/photo-1520637836862-4d197d17c38a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756590182/dung_eater_in_sewers_islext.jpg",
                 "outcome": "Suppressed but never ended",
                 "casualties": "Countless Omen",
                 "aftermath": "Mohg's escape and Morgott's exile",
@@ -674,7 +674,7 @@
                 "subtitle": "Malenia's Southern Campaigns",
                 "location": "Various Southern Regions",
                 "description": "The Scarlet Rot's first spread across the lands",
-                "image": "https://images.unsplash.com/photo-1565814329452-e1efa11c5b89?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756590393/The_Cleanrot_War_xcgarb.webp",
                 "outcome": "Miquella's Territory Secured",
                 "casualties": "Heavy on all sides",
                 "aftermath": "Establishment of Cleanrot Knight order",
@@ -691,7 +691,7 @@
                 "subtitle": "The Conspiracy of the Primeval Current",
                 "location": "Raya Lucaria Academy",
                 "description": "The sorcerers' attempt to transcend the stars",
-                "image": "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756590674/Elden-Ring-Raya-Lucaria-Academy_e0wjvd.avif",
                 "outcome": "Rebellion Crushed",
                 "casualties": "Many master sorcerers",
                 "aftermath": "Academy's magical research restricted",
@@ -708,7 +708,7 @@
                 "subtitle": "The Ancient Order's Last Stand",
                 "location": "Various Ancient Sites",
                 "description": "The conflict between old and new divinity",
-                "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756590767/elden-ring-crucible-knight-crucible-knight-ordovis-boss-fight_fmkvgw.avif",
                 "outcome": "Golden Order Victory",
                 "casualties": "Most Crucible Knights",
                 "aftermath": "Crucible aspects deemed blasphemous",
@@ -725,7 +725,7 @@
                 "subtitle": "The God-Slaying Apostles",
                 "location": "Throughout the Lands Between",
                 "description": "The systematic hunting of demigods",
-                "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756590538/Godskin_Duo_uzeerb.webp",
                 "outcome": "Several demigods slain",
                 "casualties": "Multiple demigods and their followers",
                 "aftermath": "Godskin cult driven underground",
@@ -1064,7 +1064,7 @@
                 "type": "Demigod",
                 "difficulty": "Extreme",
                 "health": "33,251 HP",
-                "image": "MaleniaPhoto",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758816909/boss_malenia_pughlk.jpg",
                 "weaknesses": [
                     "Frost",
                     "Fire",
@@ -1104,7 +1104,7 @@
                 "type": "Demigod",
                 "difficulty": "High",
                 "health": "9,572 HP",
-                "image": "RadhanPhoto",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1759225925/Radhan_dczebc.jpg",
                 "weaknesses": [
                     "Scarlet Rot",
                     "Bleed"
@@ -1143,7 +1143,7 @@
                 "type": "Demigod",
                 "difficulty": "High",
                 "health": "18,389 HP",
-                "image": "MoghPhoto",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478191/Mogh_hrdibn.jpg",
                 "weaknesses": [
                     "Physical",
                     "Bleed Resistance"
@@ -1182,7 +1182,7 @@
                 "type": "Beast/Demigod",
                 "difficulty": "Very High",
                 "health": "10,620 HP",
-                "image": "MalekithPhoto",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1759226038/MalekithPhoto_h2lkuc.jpg",
                 "weaknesses": [
                     "Bleed",
                     "Frost"
@@ -1221,7 +1221,7 @@
                 "type": "Crucible Knight",
                 "difficulty": "Medium",
                 "health": "4,227 HP",
-                "image": "https://images.unsplash.com/photo-1504893524553-b855bce32c67?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818866/boss_Crucible_Knight_Ordovis_jhdwai.jpg",
                 "weaknesses": [
                     "Strike damage",
                     "Lightning"
@@ -1261,7 +1261,7 @@
                 "type": "Omen",
                 "difficulty": "Medium",
                 "health": "4,174 HP",
-                "image": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818673/boss_Margit_mbvbyd.jpg",
                 "weaknesses": [
                     "Bleed",
                     "Margit's Shackle"
@@ -1300,7 +1300,7 @@
                 "type": "Demigod",
                 "difficulty": "Medium",
                 "health": "6,080 HP",
-                "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818673/boss_Godrick_the_Grafted_ylhsjq.jpg",
                 "weaknesses": [
                     "Fire",
                     "Bleed"
@@ -1341,7 +1341,7 @@
                 "type": "Demigod",
                 "difficulty": "Medium",
                 "health": "3,309 HP",
-                "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818673/boss_rennala_rab87g.jpg0",
                 "weaknesses": [
                     "Physical",
                     "Strike damage"
@@ -1382,7 +1382,7 @@
                 "type": "Omen",
                 "difficulty": "High",
                 "health": "10,396 HP",
-                "image": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818673/boss_Morgott_yig7vn.jpg",
                 "weaknesses": [
                     "Bleed",
                     "Frost"
@@ -1423,7 +1423,7 @@
                 "type": "Giant",
                 "difficulty": "High",
                 "health": "17,013 HP",
-                "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758819132/boss_Fire_Giant_edud0z.jpg",
                 "weaknesses": [
                     "Lightning",
                     "Frostbite"
@@ -1463,7 +1463,7 @@
                 "type": "Demigod/Serpent",
                 "difficulty": "High",
                 "health": "89,500 HP",
-                "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818675/boss_Rykard_qveszx.jpg",
                 "weaknesses": [
                     "Serpent-Hunter (Weapon)",
                     "Physical"
@@ -1504,7 +1504,7 @@
                 "type": "Godskin",
                 "difficulty": "Very High",
                 "health": "27,564 HP",
-                "image": "https://images.unsplash.com/photo-1504893524553-b855bce32c67?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818675/noss___God_Skin_Duo_zia3uv.jpg",
                 "weaknesses": [
                     "Sleep",
                     "Bleed"
@@ -1544,7 +1544,7 @@
                 "type": "God",
                 "difficulty": "Very High",
                 "health": "13,805 HP",
-                "image": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818674/boss_Radagon_cg2csz.jpg",
                 "weaknesses": [
                     "Physical",
                     "Strike damage"
@@ -1583,7 +1583,7 @@
                 "type": "Outer God",
                 "difficulty": "Very High",
                 "health": "22,127 HP",
-                "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818674/boss_Elden_Beast_onvz7r.jpg",
                 "weaknesses": [
                     "Physical",
                     "Strike damage"
@@ -1623,7 +1623,7 @@
                 "type": "Ancient Dragon",
                 "difficulty": "Extreme",
                 "health": "26,651 HP",
-                "image": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758819426/boss_Dragonlord_Placidusax_cog0ms.jpg",
                 "weaknesses": [
                     "Physical",
                     "Bleed"
@@ -1663,7 +1663,7 @@
                 "type": "Knight",
                 "difficulty": "Medium",
                 "health": "3,123 HP",
-                "image": "https://images.unsplash.com/photo-1519452575417-564c1401ecc0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758819565/boss_Tree_Sentinel_dcgixr.jpg",
                 "weaknesses": [
                     "Poison",
                     "Rot"
@@ -1703,7 +1703,7 @@
                 "type": "Dragon",
                 "difficulty": "Medium",
                 "health": "3,188 HP",
-                "image": "https://images.unsplash.com/photo-1458668383970-8ddd3927deed?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758819704/boss_Flying_Dragon_Agheel_id8mqt.jpg",
                 "weaknesses": [
                     "Lightning",
                     "Magic"
@@ -1743,7 +1743,7 @@
                 "type": "Crucible Knight",
                 "difficulty": "High",
                 "health": "2,914 HP",
-                "image": "https://images.unsplash.com/photo-1504893524553-b855bce32c67?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758819798/boss_Crucible_Knight_qmsz4w.jpg",
                 "weaknesses": [
                     "Strike damage",
                     "Guard counters"
@@ -1782,7 +1782,7 @@
                 "type": "Bloodhound Knight",
                 "difficulty": "Medium",
                 "health": "1,940 HP",
-                "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818674/boss_Bloodhound_Knight_fhjzin.jpg",
                 "weaknesses": [
                     "Magic",
                     "Holy"
@@ -1821,7 +1821,7 @@
                 "type": "Spectral Knight",
                 "difficulty": "Medium",
                 "health": "2,436 HP",
-                "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758819921/boss_night_s_cavalry_zrsvwd.jpg",
                 "weaknesses": [
                     "Holy",
                     "Fire"
@@ -1861,7 +1861,7 @@
                 "type": "Assassin",
                 "difficulty": "High",
                 "health": "4,494 HP",
-                "image": "https://images.unsplash.com/photo-1504893524553-b855bce32c67?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818674/boss_bell_bearing_hunter_apyzmm.jpg",
                 "weaknesses": [
                     "Magic",
                     "Lightning"
