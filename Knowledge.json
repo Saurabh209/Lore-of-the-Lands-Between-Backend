@@ -988,7 +988,7 @@
                 "name": "Miquella the Unalloyed",
                 "title": "Miquella the Kind",
                 "description": "Twin brother of Malenia, cursed with eternal youth, creator of Unalloyed Gold.",
-                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756478193/Miqulla_fu22ye.png",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756754280/Miquella_gapwzs.jpg",
                 "lore": "Twin brother of Malenia, cursed with eternal youth. Created Unalloyed Gold to cure his sister's rot and built the Haligtree as sanctuary for the unwanted. He was kidnapped by Mohg while in his cocoon, attempting to cure his curse and ascend to godhood.",
                 "abilities": [
                     "Unalloyed Gold Creation",
@@ -1341,7 +1341,7 @@
                 "type": "Demigod",
                 "difficulty": "Medium",
                 "health": "3,309 HP",
-                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818673/boss_rennala_rab87g.jpg0",
+                "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758818673/boss_rennala_rab87g.jpg",
                 "weaknesses": [
                     "Physical",
                     "Strike damage"
