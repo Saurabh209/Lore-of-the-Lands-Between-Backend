@@ -1057,14 +1057,13 @@
     },
     {
         "bosses": [
-
-        
             {
                 "name": "Malenia, Blade of Miquella",
                 "type": "Demigod",
                 "difficulty": "Extreme",
                 "health": "33,251 HP",
                 "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1758816909/boss_malenia_pughlk.jpg",
+                "cutScene": "https://res.cloudinary.com/doeiccxm7/video/upload/v1759913937/Malenia_cutScene_wdg1pk.mp4",
                 "weaknesses": [
                     "Frost",
                     "Fire",
@@ -1078,17 +1077,20 @@
                     {
                         "name": "Waterfowl Dance",
                         "description": "Devastating multi-hit aerial combo. Run away during windup, then dodge through the final flurry.",
-                        "danger": "Extreme"
+                        "danger": "Extreme",
+                        "playback": "https://res.cloudinary.com/doeiccxm7/video/upload/v1759910864/WaterFowl-dance_z6j3io.mp4"
                     },
                     {
                         "name": "Scarlet Aeonia",
                         "description": "Large AoE rot explosion. Creates rot pools. Stay far away.",
-                        "danger": "High"
+                        "danger": "High",
+                        "playback": "https://res.cloudinary.com/doeiccxm7/video/upload/v1759913934/scarlet-aeonia_tyconv.mp4"
                     },
                     {
                         "name": "Phantom Spirits",
                         "description": "Summons spectral copies. Focus on the real Malenia (glowing eyes).",
-                        "danger": "Medium"
+                        "danger": "Medium",
+                        "playback": "https://res.cloudinary.com/doeiccxm7/video/upload/v1759913933/phantom-sprits_kefppn.mp4"
                     }
                 ],
                 "strategy": "Stay aggressive but patient. Use bleed weapons. Learn to dodge Waterfowl Dance. Bring rot resistance.",
@@ -1105,6 +1107,7 @@
                 "difficulty": "High",
                 "health": "9,572 HP",
                 "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1759225925/Radhan_dczebc.jpg",
+                "cutScene":"https://res.cloudinary.com/doeiccxm7/video/upload/v1759925247/radhan-intro_lhj1lh.mp4",
                 "weaknesses": [
                     "Scarlet Rot",
                     "Bleed"
@@ -1117,17 +1120,20 @@
                     {
                         "name": "Meteor Attack",
                         "description": "Radahn launches into the sky and crashes down. Look for the purple indicator and dodge.",
-                        "danger": "Extreme"
+                        "danger": "Extreme",
+                        "playback": "https://res.cloudinary.com/doeiccxm7/video/upload/v1759921971/Meteor_Attack_pb7nv6.mp4"
                     },
                     {
                         "name": "Gravity Pull",
                         "description": "Pulls you towards him before a sword slam. Use Torrent to escape.",
-                        "danger": "High"
+                        "danger": "High",
+                        "playback": "https://res.cloudinary.com/doeiccxm7/video/upload/v1759921974/Gravity_Pull_srj5pr.mp4"
                     },
                     {
                         "name": "Arrow Barrage",
                         "description": "Fires magic arrows. Use the battlefield debris as cover.",
-                        "danger": "Medium"
+                        "danger": "Medium",
+                        "playback": "https://res.cloudinary.com/doeiccxm7/video/upload/v1759921969/Arrow_Barrage_bln61g.mp4"
                     }
                 ],
                 "strategy": "Use the festival NPCs as distraction. Fight on horseback. Watch for meteor attack indicator.",
@@ -14496,11 +14502,11 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity": "D" 
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "20",
-                        "Dexterity": "40" 
+                        "Dexterity": "40"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
@@ -14546,11 +14552,11 @@
                     },
                     "scaling": {
                         "Strength": "D",
-                        "Dexterity": "D" 
+                        "Dexterity": "D"
                     },
                     "requiredStats": {
                         "Strength": "20",
-                        "Dexterity": "40" 
+                        "Dexterity": "40"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
