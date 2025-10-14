@@ -1107,7 +1107,7 @@
                 "difficulty": "High",
                 "health": "9,572 HP",
                 "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1759225925/Radhan_dczebc.jpg",
-                "cutScene":"https://res.cloudinary.com/doeiccxm7/video/upload/v1759925247/radhan-intro_lhj1lh.mp4",
+                "cutScene": "https://res.cloudinary.com/doeiccxm7/video/upload/v1759925247/radhan-intro_lhj1lh.mp4",
                 "weaknesses": [
                     "Scarlet Rot",
                     "Bleed"
@@ -14533,43 +14533,45 @@
             ],
             "greatSpears": [
                 {
-                    "name": "Bolt of Gransax",
+                    "name": "Bloodfiend's Sacred Spear",
                     "attack": {
-                        "Physical": "98",
+                        "Physical": "115",
                         "Magic": "0",
                         "Fire": "0",
-                        "Lightning": "63",
+                        "Lightning": "0",
                         "Holy": "0",
                         "Critical": "110"
                     },
                     "guard": {
-                        "Physical": "60",
-                        "Magic": "31",
-                        "Fire": "31",
-                        "Lightning": "47",
-                        "Holy": "31",
-                        "Boost": "40"
+                        "Physical": "40",
+                        "Magic": "25",
+                        "Fire": "25",
+                        "Lightning": "25",
+                        "Holy": "25",
+                        "Boost": "30"
                     },
                     "scaling": {
-                        "Strength": "D",
-                        "Dexterity": "D"
+                        "Strength": "E",
+                        "Dexterity": "E",
+                        "Arcane": "C"
                     },
                     "requiredStats": {
-                        "Strength": "20",
-                        "Dexterity": "40"
+                        "Strength": "22",
+                        "Dexterity": "12",
+                        "Arcane": "13"
                     },
                     "info": {
                         "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
-                        "description": "Bolt of Gransax is a Spear in Elden Ring. The Bolt of Gransax scales primarily with Strength and Dexterity and is a potent Lightning-imbued Weapon to hunt down dragon-like enemies or engage dangerous foes from afar. ",
+                        "description": "Bloodfiend's Sacred Spear is a Great Spear in Elden Ring. It is a brand new Great Spear in the Shadow of the Erdtree DLC. The Bloodfiend's Sacred Spear scales primarily with Strength, Dexterity and Arcane and is a good Weapon for Arcane builds. This weapon causes blood-loss build-up and comes with the Bloodfiend's Bloodboon skill that lets you summon blood flames to your enemy.",
                         "location": [
-                            "Can be found in Leyndell, Royal Capital, at the topn of real bolt of gransax"
+                            "The Bloodfiend west of Taylew's Ruined Forge drops this when killed."
                         ],
-                        "fp": "25",
-                        "weight": "8.5",
+                        "fp": "20",
+                        "weight": "8",
                         "skill": [
                             {
-                                "name": "Ancient Lightning Spear",
-                                "description": "Ancient Lightning Spear is a Skill in Elden Ring. Ancient Lightning Spear is a unique skill that can be used on the Bolt of Gransax.",
+                                "name": "Bloodfiends' Bloodboon",
+                                "description": "Bloodfiends' Bloodboon is a Skill in Elden Ring. It was added with the Shadow of the Erdtree DLC. Bloodfiends' Bloodboon emits a ranged cloud of damage that inflicts bleed buildup.",
                                 "playback": [
                                     "Tt contain weapon skill video"
                                 ]
@@ -14579,7 +14581,303 @@
                             "It contain gameplay video with this with this weapon"
                         ]
                     }
-                }
+                },
+                {
+                    "name": "Messmer Soldier's Spear",
+                    "attack": {
+                        "Physical": "122",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "56",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "35",
+                        "Boost": "43"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "19",
+                        "Dexterity": "16"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Messmer Soldier's Spear is a Great Spear in Elden Ring. It is a brand new Great Spear in the Shadow of the Erdtree DLC. The Messmer Soldier's Spear scales primarily with Strength and Dexterity and is a well-balanced Weapon. This weapon can be used while guarding with a shield and has the thrust skill that goes through an enemy.",
+                        "location": [
+                            "Has a 2.00% chance to be dropped by Messmer Soldiers."
+                        ],
+                        "fp": "9",
+                        "weight": "8.5",
+                        "skill": [
+                            {
+                                "name": "Impaling Thrust",
+                                "description": "Impaling Thrust is a Skill in Elden Ring. Impaling Thrust is a strong lunging action that can pierce through enemy shields and pierce their guard",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Spear of the Impaler",
+                    "attack": {
+                        "Physical": "85",
+                        "Magic": "0",
+                        "Fire": "102",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "48",
+                        "Magic": "32",
+                        "Fire": "32",
+                        "Lightning": "64",
+                        "Holy": "32",
+                        "Boost": "45"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "C",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "35",
+                        "Faith": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "The Spear of the Impaler scales primarily with Strength, Dexterity, and Faith and is the legendary spear wielded by Messmer the Impaler. This comes with the Messmer's Assault skill that lets you do a combo of attacks and eventually slamming the spear that causes a wide area of damage.",
+                        "location": [
+                            "Trade Remembrance of the Impaler with Enia at Roundtable Hold."
+                        ],
+                        "fp": "15",
+                        "weight": "9.5",
+                        "skill": [
+                            {
+                                "name": "Messmer's Assault",
+                                "description": " Messmer's Assault unleashes a succession of attacks using the spear which can be followed-up by two more attacks, and ends by thrusting the spear into the ground by causing countless spears to form in the surrounding area.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Barbed Staff-Spear",
+                    "attack": {
+                        "Physical": "86",
+                        "Magic": "0",
+                        "Fire": "102",
+                        "Lightning": "0",
+                        "Holy": "86",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "42",
+                        "Magic": "31",
+                        "Fire": "31",
+                        "Lightning": "31",
+                        "Holy": "45",
+                        "Boost": "37"
+                    },
+                    "scaling": {
+                        "Strength": "E",
+                        "Dexterity": "E",
+                        "Faith": "C"
+                    },
+                    "requiredStats": {
+                        "Strength": "14",
+                        "Dexterity": "18",
+                        "Faith": "22"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": " The Barbed Staff-Spear scales primarily with Strength, Dexterity and Faith and is a good Weapon for Faith players. This has the Jori's Inquisition skill that lets you summon golden arcs towards foes.",
+                        "location": [
+                            "Dropped by Jori Elder Inquisitor who can be found in the Abyssal Woods."
+                        ],
+                        "fp": "4",
+                        "weight": "7.5",
+                        "skill": [
+                            {
+                                "name": "Jori's Inquisition",
+                                "description": "  Jori's Inquisition allows the caster to fire a succession of golden arcs by thrusting the weapon into the air.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Lance",
+                    "attack": {
+                        "Physical": "123",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "0",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "57",
+                        "Magic": "36",
+                        "Fire": "36",
+                        "Lightning": "36",
+                        "Holy": "36",
+                        "Boost": "44"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "20",
+                        "Dexterity": "14"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": "Lance is a Great Spear in Elden Ring. The Lance scales primarily with Strength and Dexterity, and is a good Weapon for melee users who want to perform longer-reaching piercing attacks. ",
+                        "location": [
+                            "On top of the northwestern ruin structure in a camp with Foot Soldiers"
+                        ],
+                        "fp": "16",
+                        "weight": "9",
+                        "skill": [
+                            {
+                                "name": "Charge Forth",
+                                "description": " Charge Forth is a Skill in Elden Ring. Charge Forth is a regular skill that can be found in Ashes of War and applied to compatible weapons.  Charging Forth has Quality Affinity and is Usable on polearms capable of thrusting, heavy thrusting swords, and twinblades.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Treespear",
+                    "attack": {
+                        "Physical": "122",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "79",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "55",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "48",
+                        "Boost": "45"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "15",
+                        "Dexterity": "22",
+                        "Faith": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": " The Treespear scales primarily with Strength, Faith and Dexterity and is a good Weapon for dealing Holy Damage, but requires a certain level of Dexterity in order to wield it. Its accompanying skill makes it most effective against Those Who Live With Death.",
+                        "location": [
+                            "Found on a Carriage at the edge of the collapsed bridge. From Liurnia Highway South Site of Grace, follow the road southeast."
+                        ],
+                        "fp": "18",
+                        "weight": "9.5",
+                        "skill": [
+                            {
+                                "name": "Sacred Order",
+                                "description": "Sacred Order is a skill of the Golden Order found on the Treespear. Can be mistaken for its aura buff counterpart, Shared Order.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
+                {
+                    "name": "Treespear",
+                    "attack": {
+                        "Physical": "122",
+                        "Magic": "0",
+                        "Fire": "0",
+                        "Lightning": "0",
+                        "Holy": "79",
+                        "Critical": "100"
+                    },
+                    "guard": {
+                        "Physical": "55",
+                        "Magic": "35",
+                        "Fire": "35",
+                        "Lightning": "35",
+                        "Holy": "48",
+                        "Boost": "45"
+                    },
+                    "scaling": {
+                        "Strength": "D",
+                        "Dexterity": "D",
+                        "Faith": "D"
+                    },
+                    "requiredStats": {
+                        "Strength": "15",
+                        "Dexterity": "22",
+                        "Faith": "18"
+                    },
+                    "info": {
+                        "image": "https://res.cloudinary.com/doeiccxm7/image/upload/v1756480663/malikeths_black_blade_colossal_swords_elden_ring_wiki_guide_200px.png",
+                        "description": " The Treespear scales primarily with Strength, Faith and Dexterity and is a good Weapon for dealing Holy Damage, but requires a certain level of Dexterity in order to wield it. Its accompanying skill makes it most effective against Those Who Live With Death.",
+                        "location": [
+                            "Found on a Carriage at the edge of the collapsed bridge. From Liurnia Highway South Site of Grace, follow the road southeast."
+                        ],
+                        "fp": "18",
+                        "weight": "9.5",
+                        "skill": [
+                            {
+                                "name": "Sacred Order",
+                                "description": "Sacred Order is a skill of the Golden Order found on the Treespear. Can be mistaken for its aura buff counterpart, Shared Order.",
+                                "playback": [
+                                    "Tt contain weapon skill video"
+                                ]
+                            }
+                        ],
+                        "video": [
+                            "It contain gameplay video with this with this weapon"
+                        ]
+                    }
+                },
             ],
             "halberds": [],
             "reapers": [],
