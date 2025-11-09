@@ -1,10 +1,26 @@
 import mongoose from "mongoose";
 
-const LoreSchema = new mongoose.Schema({
-    title: { type: String, required: true },
-    icon: { type: String, required: true },
-    description: { type: String, required: true },
-    content: { type: String, required: true },
-});
+const AllLore = new mongoose.Schema({
+    title:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    icon:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    description:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    content:{
+        type:String,
+        trim:true,
+        required:true
+    }
+})
 
-export const Lore = mongoose.model("Lore", LoreSchema);
+export const Lore = mongoose.model("Lore",AllLore)

@@ -1,17 +1,56 @@
-import mongoose from 'mongoose';
+import mongoose from "mongoose";
 
-const ExplorationSchema = new mongoose.Schema({
-    name: { type: String, required: true },
-    subtitle: { type: String, required: true },
-    description: { type: String, required: true },
-    image: { type: String, required: true },
-    icon: { type: String, required: true },
-    difficulty: { type: String, required: true },
-    boss: { type: String, required: true },
-    keyLocations: { type: [String], required: true },
-    secrets: { type: [String], required: true },
-    lore: { type: String, required: true },
+const AllExploration = new mongoose.Schema({
+    name:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    subtitle:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    description:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    imageUrl:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    icon:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    difficulty:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    boss:{
+        type:String,
+        trim:true,
+        required:true
+    },
+    keyLocations:{
+        type:[String],
+        trim:true,
+        required:true
+    },
+    secrets:{
+        type:[String],
+        trim:true,
+        required:true
+    },
+    lore:{
+        type:String,
+        trim:true,
+        required:true
+    }
+})
 
-});
-
-export const Exploration  = mongoose.model('Exploration',ExplorationSchema);
+export const Exploration = mongoose.model("Exploration",AllExploration)

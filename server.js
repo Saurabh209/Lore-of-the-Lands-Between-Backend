@@ -3,17 +3,23 @@ import fs from 'fs';
 import cors from 'cors';
 import mongoose from 'mongoose';
 import ConnectDB from './ConnectDB.js'
+import dotenv from 'dotenv'
+import Router from './Routes/Router.js'
 
 // Models
-import { Demigods } from './models/AllDemigods.model.js'
+
 
 const Knowledge = JSON.parse(fs.readFileSync('./Knowledge.json', 'utf8'));
 
 const app = express();
+dotenv.config();
+app.use(express.json());
+app.use(Router);
+
 const BaseUrl = "/api/knowledge";
 
+// summon me to make conntection to database\
 ConnectDB();
-
 
 app.use(cors());
 app.use(express.json());
@@ -50,43 +56,8 @@ app.get(`${BaseUrl}/weapons`, (req, res) => {
 });
 
 
-// post routes
 
-app.post('/api/add/demigod', async (req, res) => {
-  console.log("Start")
 
-  try {
-    const isDemiGodExist = await Demigods.findOne({ name: req.body.name })
-    console.log("demogods: ", isDemiGodExist)
-    if (isDemiGodExist) {
-      console.log("DemiGod Already Exist")
-      res.status(400).json({
-        success: false,
-        message: "Demigod Exists"
-      })
-    } else {
-      const currentDemigod = await Demigods.create({
-        name: req.body.name,
-        title: req.body.title,
-        description: req.body.description,
-        imageUrl: req.body.imageUrl,
-        lore: req.body.lore,
-        abilities: req.body.abilities,
-        status: req.body.status,
-        location: req.body.location,
-        difficulty: req.body.difficulty,
-        phaseCount: req.body.phaseCount,
-        healthPoint: req.body.healthPoint,
-        drops: req.body.drops,
-        family: req.body.family,
-        otherStats: req.body.otherStats
-      })
-      res.json({ currentDemigod })
-    }
-  } catch (error) {
-    console.log("error: ", error)
-  }
-})
 
 
 

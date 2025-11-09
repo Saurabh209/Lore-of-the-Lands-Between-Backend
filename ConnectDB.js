@@ -1,8 +1,8 @@
 import mongoose from "mongoose"
-
+import dotenv from 'dotenv'
 export default async function ConnectDB() {
     try {
-        await mongoose.connect("mongodb://localhost:27017", {
+        await mongoose.connect(process.env.MongoDB_URL, {
             dbName: "LoreOfTheLandsBetween"
         });
         console.log("Database connected")
