@@ -62,6 +62,10 @@ const AllWeapons = new mongoose.Schema({
         required: true,
         unique: true
     },
+    type: {
+        type: String,
+        required: true
+    },
     attack: {
         physical: {
             type: Number,

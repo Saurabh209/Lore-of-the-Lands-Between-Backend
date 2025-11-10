@@ -2,7 +2,7 @@ import { WeaponsInvertory } from "../models/Weapons.model.js"
 
 
 export const postWeapon = async (req, res) => {
-    const { name, attack, guard, scaling, requiredStats, info } = req.body
+    const { name,type, attack, guard, scaling, requiredStats, info } = req.body
     try {
         const isWeaponexist = await WeaponsInvertory.findOne({ name })
 
@@ -14,7 +14,7 @@ export const postWeapon = async (req, res) => {
         }
 
         const currentWeapon = await WeaponsInvertory.create({
-            name, attack, guard, scaling, requiredStats, info
+            name, type,  attack, guard, scaling, requiredStats, info
         })
         res.status(200).json({
             success: true,
