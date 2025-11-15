@@ -1,6 +1,30 @@
 
 import { Bosses } from "../models/Bosses.model.js"
 
+
+export const getBosses = async (req, res) => {
+    try {
+        const allBosses = await Bosses.find({})
+        if (!allBosses) {
+            return res.status(404).json({
+                success: true,
+                message: "No boss exist in arena"
+            })
+        }
+        return res.status(200).json({
+            success: true,
+            message: "Bosses Are summoned",
+            data: allBosses
+        })
+    } catch (error) {
+        console.log("Boss are lost in shadow relm: ", error)
+        return res.status(500).json({
+            success: true,
+            message: "Boss are lost in shadow relm"
+        })
+    }
+}
+
 export const postBosses = async (req, res) => {
     const { name, type, difficulty, health, imageUrl, cutscene, weakness, resistance, moves, strategy, phases, rewards } = req.body
     try {

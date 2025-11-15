@@ -3,6 +3,29 @@
 import { EpicBattles } from '../models/EpicBattles.model.js'
 
 
+export const getEpicBattles = async (req, res) => {
+    try {
+        const allBattles = await EpicBattles.find({})
+        if (!allBattles) {
+            return res.status(404).json({
+                success: true,
+                message: "No Battle exist in lands between"
+            })
+        }
+        return res.status(200).json({
+            success: true,
+            message: "battles are seen",
+            data: allBattles
+        })
+    } catch (error) {
+        console.log("battles are lost in history ", error)
+        return res.status(500).json({
+            success: true,
+            message: "Battles are lost in history "
+        })
+    }
+}
+
 export const postEpicBattle = async (req, res) => {
     const { name, subtitle, location, description, imageUrl, outcome, casualties, aftermath, details, keyMoments } = req.body
     try {

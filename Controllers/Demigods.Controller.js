@@ -3,6 +3,29 @@ import express from 'express'
 import { Demigods } from '../models/AllDemigods.model.js'
 
 
+export const getDemigod = async (req, res) => {
+    try {
+        const allDemigods = await Demigods.find({})
+        if (!allDemigods) {
+            return res.status(404).json({
+                success: false,
+                message: "No Demogod found"
+            })
+
+        }
+        return res.status(200).json({
+            success: true,
+            message: "Demigods are present",
+            data: allDemigods
+        })
+    } catch (error) {
+        console.log("demigods are lost in shadow relm: ", error)
+        return res.status(500).json({
+            success: true,
+            message: "Demigods are lost in shadow relm"
+        })
+    }
+}
 
 export const postDemigod = async (req, res) => {
     try {

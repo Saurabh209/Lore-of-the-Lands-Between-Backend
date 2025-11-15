@@ -1,5 +1,7 @@
 import mongoose from "mongoose"
 export default async function ConnectDB() {
+
+
     try {
         await mongoose.connect(process.env.MongoDB_URL, {
             dbName: "LoreOfTheLandsBetween"
