@@ -88,13 +88,13 @@ const demiGodsSchema = new mongoose.Schema({
     type: String,
     trim: true
   },
-  domain:{
-    type:String,
-    trim:true
+  domain: {
+    type: String,
+    trim: true
   },
-  reputation:{
-    type:String,
-    trim:true
+  reputation: {
+    type: String,
+    trim: true
   },
   alias: {
     type: String,
@@ -171,7 +171,7 @@ const demiGodsSchema = new mongoose.Schema({
     type: String,
     trim: true
   }
-});
+}, { timestamps: true });
 
 
 export const Demigods = mongoose.model("Demigods", demiGodsSchema);
