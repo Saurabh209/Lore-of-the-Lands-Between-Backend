@@ -10,7 +10,7 @@ import Router from './Routes/Router.js'
 
 
 const Knowledge = JSON.parse(fs.readFileSync('./Knowledge.json', 'utf8'));
-
+const app = express();
 app.use(cors({
   origin: [
     "http://localhost:5173",
@@ -20,7 +20,7 @@ app.use(cors({
   ],
   credentials: true,
 }));
-const app = express();
+
 dotenv.config();
 app.use(express.json());
 app.use(Router);
