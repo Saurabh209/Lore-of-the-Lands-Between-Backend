@@ -11,6 +11,15 @@ import Router from './Routes/Router.js'
 
 const Knowledge = JSON.parse(fs.readFileSync('./Knowledge.json', 'utf8'));
 
+app.use(cors({
+  origin: [
+    "http://localhost:5173",
+    "http://localhost:3000",
+    "https://crud-assignment-ten.vercel.app",
+    "https://lore-of-the-lands-between.vercel.app"
+  ],
+  credentials: true,
+}));
 const app = express();
 dotenv.config();
 app.use(express.json());
@@ -23,15 +32,7 @@ ConnectDB();
 
 // app.use(cors());
 
-app.use(cors({
-  origin: [
-    "http://localhost:5173",       
-    "http://localhost:3000",
-    "https://crud-assignment-ten.vercel.app",
-    "https://lore-of-the-lands-between.vercel.app"
-  ],
-  credentials: true,
-}));
+
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
