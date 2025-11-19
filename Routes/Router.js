@@ -10,6 +10,7 @@ import { postLore, getLore } from '../Controllers/Lore.Controller.js'
 import { postWeapon, getWeapon } from '../Controllers/Weapons.Controller.js'
 import { postBosses, getBosses } from '../Controllers/Bosses.Controller.js';
 import { GetAllKnowledge } from '../Controllers/GetAllKnowledge.Controller.js';
+import { AddFakeUser, showFakeUsers, deleteFakeuser, updateFakeUser } from '../Controllers/FakeUsers.Controller.js'
 
 // const knowledge = [getExploration, getEpicBattles, getDemigod, getBosses, getLore, getWeapon]
 
@@ -31,6 +32,13 @@ Router.post(`/api/add/epicBattle`, postEpicBattle)
 Router.post(`/api/add/lore`, postLore)
 Router.post(`/api/add/weapon`, postWeapon)
 Router.post('/api/add/bosses', postBosses)
+
+
+// adition routes for practice
+Router.get('/get/FakeUsers', showFakeUsers)
+Router.post('/add/fakeUser', AddFakeUser)
+Router.delete('/delete/:username', deleteFakeuser)
+Router.put('/updateUser', updateFakeUser)
 
 
 export default Router;
