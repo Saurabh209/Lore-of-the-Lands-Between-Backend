@@ -51,7 +51,7 @@ const AllBosses = new mongoose.Schema({
         required: true,
         trim: true,
     },
-    cutscene: {
+    cutScene: {
         type: String,
         trim: true,
         default: null
@@ -79,6 +79,6 @@ const AllBosses = new mongoose.Schema({
         required: true,
         trim: true
     }
-})
+}, { timestamps: true })
 
-export const Bosses = mongoose.model("Bosses",AllBosses);
+export const Bosses = mongoose.model("Bosses", AllBosses);

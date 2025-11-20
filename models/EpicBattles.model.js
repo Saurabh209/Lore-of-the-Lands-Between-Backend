@@ -53,6 +53,6 @@ const AllEpicBattles = new mongoose.Schema({
         required: true
     }
 
-})
+}, { timestamps: true })
 
 export const EpicBattles = mongoose.model("EpicBattles", AllEpicBattles) 

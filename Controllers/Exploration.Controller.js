@@ -27,12 +27,12 @@ export const getExploration = async (req, res) => {
 export const postExploration = async (req, res) => {
     const { name, subtitle, description, imageUrl, icon, difficulty, boss, keyLocations, secrets, lore } = req.body
     try {
-        const isLocationExist = await Exploration.findOne({ name: req.body.true })
+        const isLocationExist = await Exploration.findOne({ name: req.body.name })
 
         if (isLocationExist) {
             res.status(409).json({
                 success: false,
-                message: "This location Exist"
+                message: "This location is already in lands between"
             })
         } else {
             const currentExploration = await Exploration.create({

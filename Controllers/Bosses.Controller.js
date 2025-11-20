@@ -26,7 +26,7 @@ export const getBosses = async (req, res) => {
 }
 
 export const postBosses = async (req, res) => {
-    const { name, type, difficulty, health, imageUrl, cutscene, weakness, resistance, moves, strategy, phases, rewards } = req.body
+    const { name, type, difficulty, health, imageUrl, cutScene, weakness, resistance, moves, strategy, phases, rewards } = req.body
     try {
         const isBossesExist = await Bosses.findOne({ name: req.body.name })
         if (isBossesExist) {
@@ -36,7 +36,7 @@ export const postBosses = async (req, res) => {
             })
         }
         const currentBoss = await Bosses.create({
-            name, type, difficulty, health, imageUrl, cutscene, weakness, resistance, moves, strategy, phases, rewards
+            name, type, difficulty, health, imageUrl, cutScene, weakness, resistance, moves, strategy, phases, rewards
         })
         return res.status(200).json({
             success: true,

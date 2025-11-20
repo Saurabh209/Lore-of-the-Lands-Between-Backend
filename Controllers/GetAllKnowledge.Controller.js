@@ -12,12 +12,12 @@ import { WeaponsInvertory } from "../models/Weapons.model.js";
 export const GetAllKnowledge = async (req, res) => {
     try {
         const allKnowledge = await Promise.all(
-            Demigods.find(),
-            Bosses.find(),
-            EpicBattles.find(),
-            Exploration.find(),
-            Lore.find(),
-            WeaponsInvertory.find()
+           [ Demigods.find({}),
+            Bosses.find({}),
+            EpicBattles.find({}),
+            Exploration.find({}),
+            Lore.find({}),
+            WeaponsInvertory.find({})]
         )
         if (!allKnowledge) {
             return res.status(404).json({
